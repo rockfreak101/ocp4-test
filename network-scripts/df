@@ -1,0 +1,1175 @@
+-- Logs begin at Fri 2021-05-28 20:48:06 EDT, end at Fri 2021-05-28 21:43:54 EDT. --
+May 28 21:24:11 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         4034 Jul 20  2020 usr/lib/kbd/keymaps/xkb/me-latinunicodeyz.map.gz[0m
+May 28 21:24:11 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         4073 Jul 20  2020 usr/lib/kbd/keymaps/xkb/me-latinyz.map.gz[0m
+May 28 21:24:11 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         4065 Jul 20  2020 usr/lib/kbd/keymaps/xkb/me.map.gz[0m
+May 28 21:24:11 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         4158 Jul 20  2020 usr/lib/kbd/keymaps/xkb/ml-fr-oss.map.gz[0m
+May 28 21:24:11 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         3898 Jul 20  2020 usr/lib/kbd/keymaps/xkb/ml-us-intl.map.gz[0m
+May 28 21:24:11 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         3930 Jul 20  2020 usr/lib/kbd/keymaps/xkb/ml-us-mac.map.gz[0m
+May 28 21:24:11 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         4082 Jul 20  2020 usr/lib/kbd/keymaps/xkb/ml.map.gz[0m
+May 28 21:24:11 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         3770 Jul 20  2020 usr/lib/kbd/keymaps/xkb/mm.map.gz[0m
+May 28 21:24:11 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         4012 Jul 20  2020 usr/lib/kbd/keymaps/xkb/mt-alt-gb.map.gz[0m
+May 28 21:24:11 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         4808 Jul 20  2020 usr/lib/kbd/keymaps/xkb/mt-alt-us.map.gz[0m
+May 28 21:24:11 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         4036 Jul 20  2020 usr/lib/kbd/keymaps/xkb/mt-us.map.gz[0m
+May 28 21:24:11 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         4018 Jul 20  2020 usr/lib/kbd/keymaps/xkb/mt.map.gz[0m
+May 28 21:24:11 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         3709 Jul 20  2020 usr/lib/kbd/keymaps/xkb/ng-hausa.map.gz[0m
+May 28 21:24:11 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         3618 Jul 20  2020 usr/lib/kbd/keymaps/xkb/ng-igbo.map.gz[0m
+May 28 21:24:11 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         3606 Jul 20  2020 usr/lib/kbd/keymaps/xkb/ng-yoruba.map.gz[0m
+May 28 21:24:11 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         3578 Jul 20  2020 usr/lib/kbd/keymaps/xkb/ng.map.gz[0m
+May 28 21:24:11 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         4016 Jul 20  2020 usr/lib/kbd/keymaps/xkb/nl-mac.map.gz[0m
+May 28 21:24:11 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         3636 Jul 20  2020 usr/lib/kbd/keymaps/xkb/nl-std.map.gz[0m
+May 28 21:24:11 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         3931 Jul 20  2020 usr/lib/kbd/keymaps/xkb/nl-sundeadkeys.map.gz[0m
+May 28 21:24:11 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         3931 Jul 20  2020 usr/lib/kbd/keymaps/xkb/nl.map.gz[0m
+May 28 21:24:11 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         3934 Jul 20  2020 usr/lib/kbd/keymaps/xkb/no-colemak.map.gz[0m
+May 28 21:24:11 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         3807 Jul 20  2020 usr/lib/kbd/keymaps/xkb/no-dvorak.map.gz[0m
+May 28 21:24:11 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         3945 Jul 20  2020 usr/lib/kbd/keymaps/xkb/no-mac.map.gz[0m
+May 28 21:24:11 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         3924 Jul 20  2020 usr/lib/kbd/keymaps/xkb/no-mac_nodeadkeys.map.gz[0m
+May 28 21:24:11 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         4000 Jul 20  2020 usr/lib/kbd/keymaps/xkb/no-nodeadkeys.map.gz[0m
+May 28 21:24:11 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         3895 Jul 20  2020 usr/lib/kbd/keymaps/xkb/no-smi.map.gz[0m
+May 28 21:24:11 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         3880 Jul 20  2020 usr/lib/kbd/keymaps/xkb/no-smi_nodeadkeys.map.gz[0m
+May 28 21:24:11 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         3935 Jul 20  2020 usr/lib/kbd/keymaps/xkb/no-winkeys.map.gz[0m
+May 28 21:24:11 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         3938 Jul 20  2020 usr/lib/kbd/keymaps/xkb/no.map.gz[0m
+May 28 21:24:11 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         3777 Jul 20  2020 usr/lib/kbd/keymaps/xkb/ph-capewell-dvorak.map.gz[0m
+May 28 21:24:11 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         3787 Jul 20  2020 usr/lib/kbd/keymaps/xkb/ph-capewell-qwerf2k6.map.gz[0m
+May 28 21:24:11 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         3784 Jul 20  2020 usr/lib/kbd/keymaps/xkb/ph-colemak.map.gz[0m
+May 28 21:24:11 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         3781 Jul 20  2020 usr/lib/kbd/keymaps/xkb/ph-dvorak.map.gz[0m
+May 28 21:24:11 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         3780 Jul 20  2020 usr/lib/kbd/keymaps/xkb/ph.map.gz[0m
+May 28 21:24:11 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         4035 Jul 20  2020 usr/lib/kbd/keymaps/xkb/pl-csb.map.gz[0m
+May 28 21:24:11 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         3736 Jul 20  2020 usr/lib/kbd/keymaps/xkb/pl-dvorak.map.gz[0m
+May 28 21:24:11 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         3742 Jul 20  2020 usr/lib/kbd/keymaps/xkb/pl-dvorak_altquotes.map.gz[0m
+May 28 21:24:11 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         3739 Jul 20  2020 usr/lib/kbd/keymaps/xkb/pl-dvorak_quotes.map.gz[0m
+May 28 21:24:11 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         3829 Jul 20  2020 usr/lib/kbd/keymaps/xkb/pl-dvp.map.gz[0m
+May 28 21:24:11 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         4044 Jul 20  2020 usr/lib/kbd/keymaps/xkb/pl-legacy.map.gz[0m
+May 28 21:24:11 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         4038 Jul 20  2020 usr/lib/kbd/keymaps/xkb/pl-qwertz.map.gz[0m
+May 28 21:24:11 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         4035 Jul 20  2020 usr/lib/kbd/keymaps/xkb/pl-szl.map.gz[0m
+May 28 21:24:11 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         3940 Jul 20  2020 usr/lib/kbd/keymaps/xkb/pl.map.gz[0m
+May 28 21:24:11 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         3937 Jul 20  2020 usr/lib/kbd/keymaps/xkb/pt-mac.map.gz[0m
+May 28 21:24:11 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         3962 Jul 20  2020 usr/lib/kbd/keymaps/xkb/pt-mac_nodeadkeys.map.gz[0m
+May 28 21:24:11 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         3933 Jul 20  2020 usr/lib/kbd/keymaps/xkb/pt-mac_sundeadkeys.map.gz[0m
+May 28 21:24:11 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         3886 Jul 20  2020 usr/lib/kbd/keymaps/xkb/pt-nativo-epo.map.gz[0m
+May 28 21:24:11 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         3870 Jul 20  2020 usr/lib/kbd/keymaps/xkb/pt-nativo-us.map.gz[0m
+May 28 21:24:11 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         3861 Jul 20  2020 usr/lib/kbd/keymaps/xkb/pt-nativo.map.gz[0m
+May 28 21:24:11 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         3975 Jul 20  2020 usr/lib/kbd/keymaps/xkb/pt-nodeadkeys.map.gz[0m
+May 28 21:24:11 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         3915 Jul 20  2020 usr/lib/kbd/keymaps/xkb/pt-sundeadkeys.map.gz[0m
+May 28 21:24:11 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         3917 Jul 20  2020 usr/lib/kbd/keymaps/xkb/pt.map.gz[0m
+May 28 21:24:11 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         3774 Jul 20  2020 usr/lib/kbd/keymaps/xkb/ro-cedilla.map.gz[0m
+May 28 21:24:11 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         3803 Jul 20  2020 usr/lib/kbd/keymaps/xkb/ro-std.map.gz[0m
+May 28 21:24:11 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         3804 Jul 20  2020 usr/lib/kbd/keymaps/xkb/ro-std_cedilla.map.gz[0m
+May 28 21:24:11 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         3972 Jul 20  2020 usr/lib/kbd/keymaps/xkb/ro-winkeys.map.gz[0m
+May 28 21:24:11 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         3772 Jul 20  2020 usr/lib/kbd/keymaps/xkb/ro.map.gz[0m
+May 28 21:24:11 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         4060 Jul 20  2020 usr/lib/kbd/keymaps/xkb/rs-latin.map.gz[0m
+May 28 21:24:11 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         4058 Jul 20  2020 usr/lib/kbd/keymaps/xkb/rs-latinalternatequotes.map.gz[0m
+May 28 21:24:11 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         4021 Jul 20  2020 usr/lib/kbd/keymaps/xkb/rs-latinunicode.map.gz[0m
+May 28 21:24:11 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         4021 Jul 20  2020 usr/lib/kbd/keymaps/xkb/rs-latinunicodeyz.map.gz[0m
+May 28 21:24:11 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         4059 Jul 20  2020 usr/lib/kbd/keymaps/xkb/rs-latinyz.map.gz[0m
+May 28 21:24:11 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         3758 Jul 20  2020 usr/lib/kbd/keymaps/xkb/ru-cv_latin.map.gz[0m
+May 28 21:24:11 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         3996 Jul 20  2020 usr/lib/kbd/keymaps/xkb/se-dvorak.map.gz[0m
+May 28 21:24:11 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         3919 Jul 20  2020 usr/lib/kbd/keymaps/xkb/se-mac.map.gz[0m
+May 28 21:24:11 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         3865 Jul 20  2020 usr/lib/kbd/keymaps/xkb/se-nodeadkeys.map.gz[0m
+May 28 21:24:11 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         3895 Jul 20  2020 usr/lib/kbd/keymaps/xkb/se-smi.map.gz[0m
+May 28 21:24:11 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         4004 Jul 20  2020 usr/lib/kbd/keymaps/xkb/se-svdvorak.map.gz[0m
+May 28 21:24:11 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         3610 Jul 20  2020 usr/lib/kbd/keymaps/xkb/se-us.map.gz[0m
+May 28 21:24:11 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         3893 Jul 20  2020 usr/lib/kbd/keymaps/xkb/se-us_dvorak.map.gz[0m
+May 28 21:24:11 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         3844 Jul 20  2020 usr/lib/kbd/keymaps/xkb/se.map.gz[0m
+May 28 21:24:11 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         4012 Jul 20  2020 usr/lib/kbd/keymaps/xkb/si-alternatequotes.map.gz[0m
+May 28 21:24:11 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         4015 Jul 20  2020 usr/lib/kbd/keymaps/xkb/si-us.map.gz[0m
+May 28 21:24:11 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         4015 Jul 20  2020 usr/lib/kbd/keymaps/xkb/si.map.gz[0m
+May 28 21:24:11 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         4286 Jul 20  2020 usr/lib/kbd/keymaps/xkb/sk-bksl.map.gz[0m
+May 28 21:24:11 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         4277 Jul 20  2020 usr/lib/kbd/keymaps/xkb/sk-qwerty.map.gz[0m
+May 28 21:24:11 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         4283 Jul 20  2020 usr/lib/kbd/keymaps/xkb/sk-qwerty_bksl.map.gz[0m
+May 28 21:24:11 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         4279 Jul 20  2020 usr/lib/kbd/keymaps/xkb/sk.map.gz[0m
+May 28 21:24:11 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         3908 Jul 20  2020 usr/lib/kbd/keymaps/xkb/sy-ku.map.gz[0m
+May 28 21:24:11 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         3941 Jul 20  2020 usr/lib/kbd/keymaps/xkb/sy-ku_alt.map.gz[0m
+May 28 21:24:11 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         3877 Jul 20  2020 usr/lib/kbd/keymaps/xkb/sy-ku_f.map.gz[0m
+May 28 21:24:11 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         3633 Jul 20  2020 usr/lib/kbd/keymaps/xkb/tm-alt.map.gz[0m
+May 28 21:24:11 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         3644 Jul 20  2020 usr/lib/kbd/keymaps/xkb/tm.map.gz[0m
+May 28 21:24:11 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         3942 Jul 20  2020 usr/lib/kbd/keymaps/xkb/tr-alt.map.gz[0m
+May 28 21:24:11 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         3947 Jul 20  2020 usr/lib/kbd/keymaps/xkb/tr-crh.map.gz[0m
+May 28 21:24:11 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         3951 Jul 20  2020 usr/lib/kbd/keymaps/xkb/tr-crh_alt.map.gz[0m
+May 28 21:24:11 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         3913 Jul 20  2020 usr/lib/kbd/keymaps/xkb/tr-crh_f.map.gz[0m
+May 28 21:24:11 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         3862 Jul 20  2020 usr/lib/kbd/keymaps/xkb/tr-f.map.gz[0m
+May 28 21:24:11 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         3846 Jul 20  2020 usr/lib/kbd/keymaps/xkb/tr-intl.map.gz[0m
+May 28 21:24:11 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         3908 Jul 20  2020 usr/lib/kbd/keymaps/xkb/tr-ku.map.gz[0m
+May 28 21:24:11 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         3941 Jul 20  2020 usr/lib/kbd/keymaps/xkb/tr-ku_alt.map.gz[0m
+May 28 21:24:11 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         3877 Jul 20  2020 usr/lib/kbd/keymaps/xkb/tr-ku_f.map.gz[0m
+May 28 21:24:11 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         3918 Jul 20  2020 usr/lib/kbd/keymaps/xkb/tr-sundeadkeys.map.gz[0m
+May 28 21:24:11 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         3918 Jul 20  2020 usr/lib/kbd/keymaps/xkb/tr.map.gz[0m
+May 28 21:24:11 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         4241 Jul 20  2020 usr/lib/kbd/keymaps/xkb/tw-indigenous.map.gz[0m
+May 28 21:24:11 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         4241 Jul 20  2020 usr/lib/kbd/keymaps/xkb/tw-saisiyat.map.gz[0m
+May 28 21:24:11 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         4239 Jul 20  2020 usr/lib/kbd/keymaps/xkb/tw.map.gz[0m
+May 28 21:24:11 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         3686 Jul 20  2020 usr/lib/kbd/keymaps/xkb/us-alt-intl.map.gz[0m
+May 28 21:24:11 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         3886 Jul 20  2020 usr/lib/kbd/keymaps/xkb/us-altgr-intl.map.gz[0m
+May 28 21:24:11 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         4050 Jul 20  2020 usr/lib/kbd/keymaps/xkb/us-colemak.map.gz[0m
+May 28 21:24:11 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         3759 Jul 20  2020 usr/lib/kbd/keymaps/xkb/us-dvorak-alt-intl.map.gz[0m
+May 28 21:24:11 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         3649 Jul 20  2020 usr/lib/kbd/keymaps/xkb/us-dvorak-classic.map.gz[0m
+May 28 21:24:11 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         3873 Jul 20  2020 usr/lib/kbd/keymaps/xkb/us-dvorak-intl.map.gz[0m
+May 28 21:24:11 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         3668 Jul 20  2020 usr/lib/kbd/keymaps/xkb/us-dvorak-l.map.gz[0m
+May 28 21:24:11 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         3658 Jul 20  2020 usr/lib/kbd/keymaps/xkb/us-dvorak-r.map.gz[0m
+May 28 21:24:11 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         3653 Jul 20  2020 usr/lib/kbd/keymaps/xkb/us-dvorak.map.gz[0m
+May 28 21:24:11 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         3775 Jul 20  2020 usr/lib/kbd/keymaps/xkb/us-dvp.map.gz[0m
+May 28 21:24:11 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         3948 Jul 20  2020 usr/lib/kbd/keymaps/xkb/us-euro.map.gz[0m
+May 28 21:24:11 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         3666 Jul 20  2020 usr/lib/kbd/keymaps/xkb/us-hbs.map.gz[0m
+May 28 21:24:11 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         3870 Jul 20  2020 usr/lib/kbd/keymaps/xkb/us-intl.map.gz[0m
+May 28 21:24:11 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         3922 Jul 20  2020 usr/lib/kbd/keymaps/xkb/us-mac.map.gz[0m
+May 28 21:24:11 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         3573 Jul 20  2020 usr/lib/kbd/keymaps/xkb/us-norman.map.gz[0m
+May 28 21:24:11 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         3769 Jul 20  2020 usr/lib/kbd/keymaps/xkb/us-olpc2.map.gz[0m
+May 28 21:24:11 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         3894 Jul 20  2020 usr/lib/kbd/keymaps/xkb/us-workman-intl.map.gz[0m
+May 28 21:24:11 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         3593 Jul 20  2020 usr/lib/kbd/keymaps/xkb/us-workman.map.gz[0m
+May 28 21:24:11 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         3564 Jul 20  2020 usr/lib/kbd/keymaps/xkb/us.map.gz[0m
+May 28 21:24:11 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         3556 Jul 20  2020 usr/lib/kbd/keymaps/xkb/uz-latin.map.gz[0m
+May 28 21:24:11 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         4048 Jul 20  2020 usr/lib/kbd/keymaps/xkb/vn-fr.map.gz[0m
+May 28 21:24:11 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         4033 Jul 20  2020 usr/lib/kbd/keymaps/xkb/vn-us.map.gz[0m
+May 28 21:24:11 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         3464 Jul 20  2020 usr/lib/kbd/keymaps/xkb/vn.map.gz[0m
+May 28 21:24:11 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mdrwxr-xr-x   2 root     root            0 Feb 22 10:57 usr/lib/kbd/unimaps[0m
+May 28 21:24:11 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         4244 Jul 20  2020 usr/lib/kbd/unimaps/8859-1.a0-ff.uni[0m
+May 28 21:24:11 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         4706 Jul 20  2020 usr/lib/kbd/unimaps/8859-10.a0-ff.uni[0m
+May 28 21:24:11 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         4426 Jul 20  2020 usr/lib/kbd/unimaps/8859-13.a0-ff.uni[0m
+May 28 21:24:11 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         4816 Jul 20  2020 usr/lib/kbd/unimaps/8859-14.a0-ff.uni[0m
+May 28 21:24:11 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         4376 Jul 20  2020 usr/lib/kbd/unimaps/8859-15.a0-ff.uni[0m
+May 28 21:24:11 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         4479 Jul 20  2020 usr/lib/kbd/unimaps/8859-2.a0-ff.uni[0m
+May 28 21:24:11 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         4240 Jul 20  2020 usr/lib/kbd/unimaps/8859-3.a0-ff.uni[0m
+May 28 21:24:11 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         4548 Jul 20  2020 usr/lib/kbd/unimaps/8859-4.a0-ff.uni[0m
+May 28 21:24:11 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         4188 Jul 20  2020 usr/lib/kbd/unimaps/8859-5.a0-ff.uni[0m
+May 28 21:24:11 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         1869 Jul 20  2020 usr/lib/kbd/unimaps/8859-6.a0-ff.uni[0m
+May 28 21:24:11 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         3928 Jul 20  2020 usr/lib/kbd/unimaps/8859-7.a0-ff.uni[0m
+May 28 21:24:11 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         2035 Jul 20  2020 usr/lib/kbd/unimaps/8859-8.a0-ff.uni[0m
+May 28 21:24:11 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         4332 Jul 20  2020 usr/lib/kbd/unimaps/8859-9.a0-ff.uni[0m
+May 28 21:24:11 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         1494 Jul 20  2020 usr/lib/kbd/unimaps/ECMA144.uni[0m
+May 28 21:24:11 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         1378 Jul 20  2020 usr/lib/kbd/unimaps/armscii8.uni[0m
+May 28 21:24:11 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         1707 Jul 20  2020 usr/lib/kbd/unimaps/ascii.20-7f.uni[0m
+May 28 21:24:11 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         5478 Jul 20  2020 usr/lib/kbd/unimaps/cp1250.uni[0m
+May 28 21:24:11 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root          446 Jul 20  2020 usr/lib/kbd/unimaps/cp437.00-1f.uni[0m
+May 28 21:24:11 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         4475 Jul 20  2020 usr/lib/kbd/unimaps/cp437.uni[0m
+May 28 21:24:11 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         5674 Jul 20  2020 usr/lib/kbd/unimaps/cp737.uni[0m
+May 28 21:24:11 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         6199 Jul 20  2020 usr/lib/kbd/unimaps/cp737a.uni[0m
+May 28 21:24:11 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         6215 Jul 20  2020 usr/lib/kbd/unimaps/cp737b.uni[0m
+May 28 21:24:11 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         6266 Jul 20  2020 usr/lib/kbd/unimaps/cp737c.uni[0m
+May 28 21:24:11 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         5456 Jul 20  2020 usr/lib/kbd/unimaps/cp850.uni[0m
+May 28 21:24:11 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         5985 Jul 20  2020 usr/lib/kbd/unimaps/cp850a.uni[0m
+May 28 21:24:11 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         4011 Jul 20  2020 usr/lib/kbd/unimaps/cp850b.uni[0m
+May 28 21:24:11 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         3880 Jul 20  2020 usr/lib/kbd/unimaps/cp850z.uni[0m
+May 28 21:24:11 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         5627 Jul 20  2020 usr/lib/kbd/unimaps/cp865.uni[0m
+May 28 21:24:11 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         6155 Jul 20  2020 usr/lib/kbd/unimaps/cp865a.uni[0m
+May 28 21:24:11 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         5553 Jul 20  2020 usr/lib/kbd/unimaps/cp866.uni[0m
+May 28 21:24:11 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         6174 Jul 20  2020 usr/lib/kbd/unimaps/cp866a.uni[0m
+May 28 21:24:11 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         2558 Jul 20  2020 usr/lib/kbd/unimaps/cybercafe.uni[0m
+May 28 21:24:11 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         4152 Jul 20  2020 usr/lib/kbd/unimaps/cyralt.uni[0m
+May 28 21:24:12 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         2206 Jul 20  2020 usr/lib/kbd/unimaps/def.uni[0m
+May 28 21:24:12 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root           22 Jul 20  2020 usr/lib/kbd/unimaps/empty.uni[0m
+May 28 21:24:12 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         5981 Jul 20  2020 usr/lib/kbd/unimaps/ethiopic.uni[0m
+May 28 21:24:12 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root          674 Jul 20  2020 usr/lib/kbd/unimaps/iso01.uni[0m
+May 28 21:24:12 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         1815 Jul 20  2020 usr/lib/kbd/unimaps/iso02.uni[0m
+May 28 21:24:12 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         1829 Jul 20  2020 usr/lib/kbd/unimaps/iso03.uni[0m
+May 28 21:24:12 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         1815 Jul 20  2020 usr/lib/kbd/unimaps/iso04.uni[0m
+May 28 21:24:12 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         1815 Jul 20  2020 usr/lib/kbd/unimaps/iso05.uni[0m
+May 28 21:24:12 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         1275 Jul 20  2020 usr/lib/kbd/unimaps/iso06.uni[0m
+May 28 21:24:12 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         1744 Jul 20  2020 usr/lib/kbd/unimaps/iso07.uni[0m
+May 28 21:24:12 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         2507 Jul 20  2020 usr/lib/kbd/unimaps/iso07u.uni[0m
+May 28 21:24:12 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         1119 Jul 20  2020 usr/lib/kbd/unimaps/iso08.uni[0m
+May 28 21:24:12 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root          805 Jul 20  2020 usr/lib/kbd/unimaps/iso09.uni[0m
+May 28 21:24:12 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         1489 Jul 20  2020 usr/lib/kbd/unimaps/iso10.uni[0m
+May 28 21:24:12 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root          876 Jul 20  2020 usr/lib/kbd/unimaps/iso15.uni[0m
+May 28 21:24:12 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         3998 Jul 20  2020 usr/lib/kbd/unimaps/koi8r.uni[0m
+May 28 21:24:12 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         5224 Jul 20  2020 usr/lib/kbd/unimaps/koi8u.uni[0m
+May 28 21:24:12 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         1030 Jul 20  2020 usr/lib/kbd/unimaps/lat1.uni[0m
+May 28 21:24:12 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         2177 Jul 20  2020 usr/lib/kbd/unimaps/lat1u.uni[0m
+May 28 21:24:12 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         5302 Jul 20  2020 usr/lib/kbd/unimaps/lat2.uni[0m
+May 28 21:24:12 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         3632 Jul 20  2020 usr/lib/kbd/unimaps/lat2u.uni[0m
+May 28 21:24:12 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         3251 Jul 20  2020 usr/lib/kbd/unimaps/lat4.uni[0m
+May 28 21:24:12 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         5046 Jul 20  2020 usr/lib/kbd/unimaps/lat4u.uni[0m
+May 28 21:24:12 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         7282 Jul 20  2020 usr/lib/kbd/unimaps/lat7.uni[0m
+May 28 21:24:12 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         3579 Jul 20  2020 usr/lib/kbd/unimaps/lat9u.uni[0m
+May 28 21:24:12 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         3771 Jul 20  2020 usr/lib/kbd/unimaps/lat9v.uni[0m
+May 28 21:24:12 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         3635 Jul 20  2020 usr/lib/kbd/unimaps/lat9w.uni[0m
+May 28 21:24:12 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         4030 Jul 20  2020 usr/lib/kbd/unimaps/ruscii.uni[0m
+May 28 21:24:12 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         1009 Jul 20  2020 usr/lib/kbd/unimaps/tcvn.uni[0m
+May 28 21:24:12 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         1811 Jul 20  2020 usr/lib/kbd/unimaps/viscii.uni[0m
+May 28 21:24:12 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mdrwxr-xr-x   2 root     root            0 Feb 22 10:57 usr/lib/modprobe.d[0m
+May 28 21:24:12 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root          884 Sep 22  2020 usr/lib/modprobe.d/dist-blacklist.conf[0m
+May 28 21:24:12 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root          765 Jun 22  2018 usr/lib/modprobe.d/systemd.conf[0m
+May 28 21:24:12 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mdrwxr-xr-x   3 root     root            0 Feb 22 10:57 usr/lib/modules[0m
+May 28 21:24:12 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mdrwxr-xr-x   2 root     root            0 Feb 22 10:57 usr/lib/modules-load.d[0m
+May 28 21:24:12 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root            5 Feb 22 00:32 usr/lib/modules-load.d/fuse-overlayfs.conf[0m
+May 28 21:24:12 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root            5 Jul 21  2020 usr/lib/modules-load.d/open-vm-tools.conf[0m
+May 28 21:24:12 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mdrwxr-xr-x   3 root     root            0 Feb 22 10:57 usr/lib/modules/4.18.0-240.el8.x86_64[0m
+May 28 21:24:12 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mdrwxr-xr-x   9 root     root            0 Feb 22 10:57 usr/lib/modules/4.18.0-240.el8.x86_64/kernel[0m
+May 28 21:24:12 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mdrwxr-xr-x   3 root     root            0 Feb 22 10:57 usr/lib/modules/4.18.0-240.el8.x86_64/kernel/arch[0m
+May 28 21:24:12 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mdrwxr-xr-x   3 root     root            0 Feb 22 10:57 usr/lib/modules/4.18.0-240.el8.x86_64/kernel/arch/x86[0m
+May 28 21:24:12 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mdrwxr-xr-x   3 root     root            0 Feb 22 10:57 usr/lib/modules/4.18.0-240.el8.x86_64/kernel/arch/x86/crypto[0m
+May 28 21:24:12 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         5480 Sep 25  2020 usr/lib/modules/4.18.0-240.el8.x86_64/kernel/arch/x86/crypto/crc32c-intel.ko.xz[0m
+May 28 21:24:12 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mdrwxr-xr-x   2 root     root            0 Feb 22 10:57 usr/lib/modules/4.18.0-240.el8.x86_64/kernel/arch/x86/crypto/sha256-mb[0m
+May 28 21:24:12 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         9264 Sep 25  2020 usr/lib/modules/4.18.0-240.el8.x86_64/kernel/arch/x86/crypto/sha256-mb/sha256-mb.ko.xz[0m
+May 28 21:24:12 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mdrwxr-xr-x   2 root     root            0 Feb 22 10:57 usr/lib/modules/4.18.0-240.el8.x86_64/kernel/crypto[0m
+May 28 21:24:12 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         6740 Sep 25  2020 usr/lib/modules/4.18.0-240.el8.x86_64/kernel/crypto/mcryptd.ko.xz[0m
+May 28 21:24:12 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mdrwxr-xr-x  19 root     root            0 Feb 22 10:57 usr/lib/modules/4.18.0-240.el8.x86_64/kernel/drivers[0m
+May 28 21:24:12 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mdrwxr-xr-x   2 root     root            0 Feb 22 10:57 usr/lib/modules/4.18.0-240.el8.x86_64/kernel/drivers/ata[0m
+May 28 21:24:12 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         9548 Sep 25  2020 usr/lib/modules/4.18.0-240.el8.x86_64/kernel/drivers/ata/ata_piix.ko.xz[0m
+May 28 21:24:12 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root       104272 Sep 25  2020 usr/lib/modules/4.18.0-240.el8.x86_64/kernel/drivers/ata/libata.ko.xz[0m
+May 28 21:24:12 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mdrwxr-xr-x   2 root     root            0 Feb 22 10:57 usr/lib/modules/4.18.0-240.el8.x86_64/kernel/drivers/cdrom[0m
+May 28 21:24:12 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root        23416 Sep 25  2020 usr/lib/modules/4.18.0-240.el8.x86_64/kernel/drivers/cdrom/cdrom.ko.xz[0m
+May 28 21:24:12 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mdrwxr-xr-x   2 root     root            0 Feb 22 10:57 usr/lib/modules/4.18.0-240.el8.x86_64/kernel/drivers/dca[0m
+May 28 21:24:12 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         5364 Sep 25  2020 usr/lib/modules/4.18.0-240.el8.x86_64/kernel/drivers/dca/dca.ko.xz[0m
+May 28 21:24:12 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mdrwxr-xr-x   2 root     root            0 Feb 22 10:57 usr/lib/modules/4.18.0-240.el8.x86_64/kernel/drivers/firmware[0m
+May 28 21:24:12 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         5020 Sep 25  2020 usr/lib/modules/4.18.0-240.el8.x86_64/kernel/drivers/firmware/iscsi_ibft.ko.xz[0m
+May 28 21:24:12 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mdrwxr-xr-x   3 root     root            0 Feb 22 10:57 usr/lib/modules/4.18.0-240.el8.x86_64/kernel/drivers/gpu[0m
+May 28 21:24:12 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mdrwxr-xr-x   4 root     root            0 Feb 22 10:57 usr/lib/modules/4.18.0-240.el8.x86_64/kernel/drivers/gpu/drm[0m
+May 28 21:24:12 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root       165384 Sep 25  2020 usr/lib/modules/4.18.0-240.el8.x86_64/kernel/drivers/gpu/drm/drm.ko.xz[0m
+May 28 21:24:12 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root        84764 Sep 25  2020 usr/lib/modules/4.18.0-240.el8.x86_64/kernel/drivers/gpu/drm/drm_kms_helper.ko.xz[0m
+May 28 21:24:12 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         2080 Sep 25  2020 usr/lib/modules/4.18.0-240.el8.x86_64/kernel/drivers/gpu/drm/drm_ttm_helper.ko.xz[0m
+May 28 21:24:12 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         7160 Sep 25  2020 usr/lib/modules/4.18.0-240.el8.x86_64/kernel/drivers/gpu/drm/drm_vram_helper.ko.xz[0m
+May 28 21:24:12 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mdrwxr-xr-x   2 root     root            0 Feb 22 10:57 usr/lib/modules/4.18.0-240.el8.x86_64/kernel/drivers/gpu/drm/mgag200[0m
+May 28 21:24:12 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root        15352 Sep 25  2020 usr/lib/modules/4.18.0-240.el8.x86_64/kernel/drivers/gpu/drm/mgag200/mgag200.ko.xz[0m
+May 28 21:24:12 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mdrwxr-xr-x   2 root     root            0 Feb 22 10:57 usr/lib/modules/4.18.0-240.el8.x86_64/kernel/drivers/gpu/drm/ttm[0m
+May 28 21:24:12 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root        42244 Sep 25  2020 usr/lib/modules/4.18.0-240.el8.x86_64/kernel/drivers/gpu/drm/ttm/ttm.ko.xz[0m
+May 28 21:24:12 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mdrwxr-xr-x   4 root     root            0 Feb 22 10:57 usr/lib/modules/4.18.0-240.el8.x86_64/kernel/drivers/hid[0m
+May 28 21:24:12 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         2584 Sep 25  2020 usr/lib/modules/4.18.0-240.el8.x86_64/kernel/drivers/hid/hid-a4tech.ko.xz[0m
+May 28 21:24:12 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         6008 Sep 25  2020 usr/lib/modules/4.18.0-240.el8.x86_64/kernel/drivers/hid/hid-alps.ko.xz[0m
+May 28 21:24:12 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         4604 Sep 25  2020 usr/lib/modules/4.18.0-240.el8.x86_64/kernel/drivers/hid/hid-apple.ko.xz[0m
+May 28 21:24:12 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         3348 Sep 25  2020 usr/lib/modules/4.18.0-240.el8.x86_64/kernel/drivers/hid/hid-appleir.ko.xz[0m
+May 28 21:24:12 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         6560 Sep 25  2020 usr/lib/modules/4.18.0-240.el8.x86_64/kernel/drivers/hid/hid-asus.ko.xz[0m
+May 28 21:24:12 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         1900 Sep 25  2020 usr/lib/modules/4.18.0-240.el8.x86_64/kernel/drivers/hid/hid-aureal.ko.xz[0m
+May 28 21:24:12 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         2396 Sep 25  2020 usr/lib/modules/4.18.0-240.el8.x86_64/kernel/drivers/hid/hid-axff.ko.xz[0m
+May 28 21:24:12 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         2188 Sep 25  2020 usr/lib/modules/4.18.0-240.el8.x86_64/kernel/drivers/hid/hid-belkin.ko.xz[0m
+May 28 21:24:12 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         2752 Sep 25  2020 usr/lib/modules/4.18.0-240.el8.x86_64/kernel/drivers/hid/hid-betopff.ko.xz[0m
+May 28 21:24:12 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         2092 Sep 25  2020 usr/lib/modules/4.18.0-240.el8.x86_64/kernel/drivers/hid/hid-cherry.ko.xz[0m
+May 28 21:24:12 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         2376 Sep 25  2020 usr/lib/modules/4.18.0-240.el8.x86_64/kernel/drivers/hid/hid-chicony.ko.xz[0m
+May 28 21:24:12 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         2524 Sep 25  2020 usr/lib/modules/4.18.0-240.el8.x86_64/kernel/drivers/hid/hid-cmedia.ko.xz[0m
+May 28 21:24:12 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         5716 Sep 25  2020 usr/lib/modules/4.18.0-240.el8.x86_64/kernel/drivers/hid/hid-corsair.ko.xz[0m
+May 28 21:24:12 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         2404 Sep 25  2020 usr/lib/modules/4.18.0-240.el8.x86_64/kernel/drivers/hid/hid-cypress.ko.xz[0m
+May 28 21:24:12 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         2412 Sep 25  2020 usr/lib/modules/4.18.0-240.el8.x86_64/kernel/drivers/hid/hid-dr.ko.xz[0m
+May 28 21:24:12 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         4680 Sep 25  2020 usr/lib/modules/4.18.0-240.el8.x86_64/kernel/drivers/hid/hid-elan.ko.xz[0m
+May 28 21:24:12 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         2116 Sep 25  2020 usr/lib/modules/4.18.0-240.el8.x86_64/kernel/drivers/hid/hid-elecom.ko.xz[0m
+May 28 21:24:12 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         3860 Sep 25  2020 usr/lib/modules/4.18.0-240.el8.x86_64/kernel/drivers/hid/hid-elo.ko.xz[0m
+May 28 21:24:12 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         1956 Sep 25  2020 usr/lib/modules/4.18.0-240.el8.x86_64/kernel/drivers/hid/hid-ezkey.ko.xz[0m
+May 28 21:24:12 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         2160 Sep 25  2020 usr/lib/modules/4.18.0-240.el8.x86_64/kernel/drivers/hid/hid-gaff.ko.xz[0m
+May 28 21:24:12 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         2308 Sep 25  2020 usr/lib/modules/4.18.0-240.el8.x86_64/kernel/drivers/hid/hid-gembird.ko.xz[0m
+May 28 21:24:12 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         2484 Sep 25  2020 usr/lib/modules/4.18.0-240.el8.x86_64/kernel/drivers/hid/hid-gfrm.ko.xz[0m
+May 28 21:24:12 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         3912 Sep 25  2020 usr/lib/modules/4.18.0-240.el8.x86_64/kernel/drivers/hid/hid-gt683r.ko.xz[0m
+May 28 21:24:12 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         2264 Sep 25  2020 usr/lib/modules/4.18.0-240.el8.x86_64/kernel/drivers/hid/hid-gyration.ko.xz[0m
+May 28 21:24:12 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         2316 Sep 25  2020 usr/lib/modules/4.18.0-240.el8.x86_64/kernel/drivers/hid/hid-holtek-kbd.ko.xz[0m
+May 28 21:24:12 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         2040 Sep 25  2020 usr/lib/modules/4.18.0-240.el8.x86_64/kernel/drivers/hid/hid-holtek-mouse.ko.xz[0m
+May 28 21:24:12 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         2044 Sep 25  2020 usr/lib/modules/4.18.0-240.el8.x86_64/kernel/drivers/hid/hid-holtekff.ko.xz[0m
+May 28 21:24:12 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         4516 Sep 25  2020 usr/lib/modules/4.18.0-240.el8.x86_64/kernel/drivers/hid/hid-hyperv.ko.xz[0m
+May 28 21:24:12 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         2216 Sep 25  2020 usr/lib/modules/4.18.0-240.el8.x86_64/kernel/drivers/hid/hid-icade.ko.xz[0m
+May 28 21:24:12 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         1880 Sep 25  2020 usr/lib/modules/4.18.0-240.el8.x86_64/kernel/drivers/hid/hid-ite.ko.xz[0m
+May 28 21:24:12 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         2116 Sep 25  2020 usr/lib/modules/4.18.0-240.el8.x86_64/kernel/drivers/hid/hid-jabra.ko.xz[0m
+May 28 21:24:12 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         1824 Sep 25  2020 usr/lib/modules/4.18.0-240.el8.x86_64/kernel/drivers/hid/hid-kensington.ko.xz[0m
+May 28 21:24:12 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         1960 Sep 25  2020 usr/lib/modules/4.18.0-240.el8.x86_64/kernel/drivers/hid/hid-keytouch.ko.xz[0m
+May 28 21:24:12 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         3540 Sep 25  2020 usr/lib/modules/4.18.0-240.el8.x86_64/kernel/drivers/hid/hid-kye.ko.xz[0m
+May 28 21:24:12 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         2000 Sep 25  2020 usr/lib/modules/4.18.0-240.el8.x86_64/kernel/drivers/hid/hid-lcpower.ko.xz[0m
+May 28 21:24:12 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         4796 Sep 25  2020 usr/lib/modules/4.18.0-240.el8.x86_64/kernel/drivers/hid/hid-led.ko.xz[0m
+May 28 21:24:12 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         6308 Sep 25  2020 usr/lib/modules/4.18.0-240.el8.x86_64/kernel/drivers/hid/hid-lenovo.ko.xz[0m
+May 28 21:24:12 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root        11064 Sep 25  2020 usr/lib/modules/4.18.0-240.el8.x86_64/kernel/drivers/hid/hid-logitech-dj.ko.xz[0m
+May 28 21:24:12 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root        18440 Sep 25  2020 usr/lib/modules/4.18.0-240.el8.x86_64/kernel/drivers/hid/hid-logitech-hidpp.ko.xz[0m
+May 28 21:24:12 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         6184 Sep 25  2020 usr/lib/modules/4.18.0-240.el8.x86_64/kernel/drivers/hid/hid-logitech.ko.xz[0m
+May 28 21:24:12 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         4112 Sep 25  2020 usr/lib/modules/4.18.0-240.el8.x86_64/kernel/drivers/hid/hid-microsoft.ko.xz[0m
+May 28 21:24:12 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         2116 Sep 25  2020 usr/lib/modules/4.18.0-240.el8.x86_64/kernel/drivers/hid/hid-monterey.ko.xz[0m
+May 28 21:24:12 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root        11188 Sep 25  2020 usr/lib/modules/4.18.0-240.el8.x86_64/kernel/drivers/hid/hid-multitouch.ko.xz[0m
+May 28 21:24:12 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         2000 Sep 25  2020 usr/lib/modules/4.18.0-240.el8.x86_64/kernel/drivers/hid/hid-nti.ko.xz[0m
+May 28 21:24:12 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         2016 Sep 25  2020 usr/lib/modules/4.18.0-240.el8.x86_64/kernel/drivers/hid/hid-ortek.ko.xz[0m
+May 28 21:24:12 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         1896 Sep 25  2020 usr/lib/modules/4.18.0-240.el8.x86_64/kernel/drivers/hid/hid-penmount.ko.xz[0m
+May 28 21:24:12 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         2416 Sep 25  2020 usr/lib/modules/4.18.0-240.el8.x86_64/kernel/drivers/hid/hid-petalynx.ko.xz[0m
+May 28 21:24:12 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root        18932 Sep 25  2020 usr/lib/modules/4.18.0-240.el8.x86_64/kernel/drivers/hid/hid-picolcd.ko.xz[0m
+May 28 21:24:12 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         2000 Sep 25  2020 usr/lib/modules/4.18.0-240.el8.x86_64/kernel/drivers/hid/hid-pl.ko.xz[0m
+May 28 21:24:12 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         2872 Sep 25  2020 usr/lib/modules/4.18.0-240.el8.x86_64/kernel/drivers/hid/hid-plantronics.ko.xz[0m
+May 28 21:24:12 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         1968 Sep 25  2020 usr/lib/modules/4.18.0-240.el8.x86_64/kernel/drivers/hid/hid-primax.ko.xz[0m
+May 28 21:24:12 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         7332 Sep 25  2020 usr/lib/modules/4.18.0-240.el8.x86_64/kernel/drivers/hid/hid-prodikeys.ko.xz[0m
+May 28 21:24:12 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         7248 Sep 25  2020 usr/lib/modules/4.18.0-240.el8.x86_64/kernel/drivers/hid/hid-rmi.ko.xz[0m
+May 28 21:24:12 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         4196 Sep 25  2020 usr/lib/modules/4.18.0-240.el8.x86_64/kernel/drivers/hid/hid-roccat-arvo.ko.xz[0m
+May 28 21:24:12 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         2988 Sep 25  2020 usr/lib/modules/4.18.0-240.el8.x86_64/kernel/drivers/hid/hid-roccat-common.ko.xz[0m
+May 28 21:24:12 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         4796 Sep 25  2020 usr/lib/modules/4.18.0-240.el8.x86_64/kernel/drivers/hid/hid-roccat-isku.ko.xz[0m
+May 28 21:24:12 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         6220 Sep 25  2020 usr/lib/modules/4.18.0-240.el8.x86_64/kernel/drivers/hid/hid-roccat-kone.ko.xz[0m
+May 28 21:24:12 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         5100 Sep 25  2020 usr/lib/modules/4.18.0-240.el8.x86_64/kernel/drivers/hid/hid-roccat-koneplus.ko.xz[0m
+May 28 21:24:12 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         3680 Sep 25  2020 usr/lib/modules/4.18.0-240.el8.x86_64/kernel/drivers/hid/hid-roccat-konepure.ko.xz[0m
+May 28 21:24:12 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         5336 Sep 25  2020 usr/lib/modules/4.18.0-240.el8.x86_64/kernel/drivers/hid/hid-roccat-kovaplus.ko.xz[0m
+May 28 21:24:12 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         2896 Sep 25  2020 usr/lib/modules/4.18.0-240.el8.x86_64/kernel/drivers/hid/hid-roccat-lua.ko.xz[0m
+May 28 21:24:12 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         5096 Sep 25  2020 usr/lib/modules/4.18.0-240.el8.x86_64/kernel/drivers/hid/hid-roccat-pyra.ko.xz[0m
+May 28 21:24:12 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         4168 Sep 25  2020 usr/lib/modules/4.18.0-240.el8.x86_64/kernel/drivers/hid/hid-roccat-ryos.ko.xz[0m
+May 28 21:24:12 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         3568 Sep 25  2020 usr/lib/modules/4.18.0-240.el8.x86_64/kernel/drivers/hid/hid-roccat-savu.ko.xz[0m
+May 28 21:24:12 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         4992 Sep 25  2020 usr/lib/modules/4.18.0-240.el8.x86_64/kernel/drivers/hid/hid-roccat.ko.xz[0m
+May 28 21:24:12 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         3008 Sep 25  2020 usr/lib/modules/4.18.0-240.el8.x86_64/kernel/drivers/hid/hid-saitek.ko.xz[0m
+May 28 21:24:12 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         2944 Sep 25  2020 usr/lib/modules/4.18.0-240.el8.x86_64/kernel/drivers/hid/hid-samsung.ko.xz[0m
+May 28 21:24:12 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         7252 Sep 25  2020 usr/lib/modules/4.18.0-240.el8.x86_64/kernel/drivers/hid/hid-sensor-custom.ko.xz[0m
+May 28 21:24:12 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         2076 Sep 25  2020 usr/lib/modules/4.18.0-240.el8.x86_64/kernel/drivers/hid/hid-sjoy.ko.xz[0m
+May 28 21:24:12 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root        14132 Sep 25  2020 usr/lib/modules/4.18.0-240.el8.x86_64/kernel/drivers/hid/hid-sony.ko.xz[0m
+May 28 21:24:12 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         1868 Sep 25  2020 usr/lib/modules/4.18.0-240.el8.x86_64/kernel/drivers/hid/hid-speedlink.ko.xz[0m
+May 28 21:24:12 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         3692 Sep 25  2020 usr/lib/modules/4.18.0-240.el8.x86_64/kernel/drivers/hid/hid-steelseries.ko.xz[0m
+May 28 21:24:12 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         2080 Sep 25  2020 usr/lib/modules/4.18.0-240.el8.x86_64/kernel/drivers/hid/hid-sunplus.ko.xz[0m
+May 28 21:24:12 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         2044 Sep 25  2020 usr/lib/modules/4.18.0-240.el8.x86_64/kernel/drivers/hid/hid-tivo.ko.xz[0m
+May 28 21:24:12 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         2116 Sep 25  2020 usr/lib/modules/4.18.0-240.el8.x86_64/kernel/drivers/hid/hid-tmff.ko.xz[0m
+May 28 21:24:12 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         2300 Sep 25  2020 usr/lib/modules/4.18.0-240.el8.x86_64/kernel/drivers/hid/hid-topseed.ko.xz[0m
+May 28 21:24:12 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         2356 Sep 25  2020 usr/lib/modules/4.18.0-240.el8.x86_64/kernel/drivers/hid/hid-twinhan.ko.xz[0m
+May 28 21:24:12 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root        10224 Sep 25  2020 usr/lib/modules/4.18.0-240.el8.x86_64/kernel/drivers/hid/hid-uclogic.ko.xz[0m
+May 28 21:24:12 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         2680 Sep 25  2020 usr/lib/modules/4.18.0-240.el8.x86_64/kernel/drivers/hid/hid-waltop.ko.xz[0m
+May 28 21:24:12 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root        23220 Sep 25  2020 usr/lib/modules/4.18.0-240.el8.x86_64/kernel/drivers/hid/hid-wiimote.ko.xz[0m
+May 28 21:24:12 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         1844 Sep 25  2020 usr/lib/modules/4.18.0-240.el8.x86_64/kernel/drivers/hid/hid-xinmo.ko.xz[0m
+May 28 21:24:12 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         1960 Sep 25  2020 usr/lib/modules/4.18.0-240.el8.x86_64/kernel/drivers/hid/hid-zpff.ko.xz[0m
+May 28 21:24:12 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         3180 Sep 25  2020 usr/lib/modules/4.18.0-240.el8.x86_64/kernel/drivers/hid/hid-zydacron.ko.xz[0m
+May 28 21:24:12 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mdrwxr-xr-x   2 root     root            0 Feb 22 10:57 usr/lib/modules/4.18.0-240.el8.x86_64/kernel/drivers/hid/i2c-hid[0m
+May 28 21:24:12 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root        11164 Sep 25  2020 usr/lib/modules/4.18.0-240.el8.x86_64/kernel/drivers/hid/i2c-hid/i2c-hid.ko.xz[0m
+May 28 21:24:12 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mdrwxr-xr-x   2 root     root            0 Feb 22 10:57 usr/lib/modules/4.18.0-240.el8.x86_64/kernel/drivers/hid/intel-ish-hid[0m
+May 28 21:24:12 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         9536 Sep 25  2020 usr/lib/modules/4.18.0-240.el8.x86_64/kernel/drivers/hid/intel-ish-hid/intel-ish-ipc.ko.xz[0m
+May 28 21:24:12 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         9292 Sep 25  2020 usr/lib/modules/4.18.0-240.el8.x86_64/kernel/drivers/hid/intel-ish-hid/intel-ishtp-hid.ko.xz[0m
+May 28 21:24:12 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root        19224 Sep 25  2020 usr/lib/modules/4.18.0-240.el8.x86_64/kernel/drivers/hid/intel-ish-hid/intel-ishtp.ko.xz[0m
+May 28 21:24:12 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         7184 Sep 25  2020 usr/lib/modules/4.18.0-240.el8.x86_64/kernel/drivers/hid/uhid.ko.xz[0m
+May 28 21:24:12 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root        40728 Sep 25  2020 usr/lib/modules/4.18.0-240.el8.x86_64/kernel/drivers/hid/wacom.ko.xz[0m
+May 28 21:24:12 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mdrwxr-xr-x   2 root     root            0 Feb 22 10:57 usr/lib/modules/4.18.0-240.el8.x86_64/kernel/drivers/hv[0m
+May 28 21:24:12 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root        37988 Sep 25  2020 usr/lib/modules/4.18.0-240.el8.x86_64/kernel/drivers/hv/hv_vmbus.ko.xz[0m
+May 28 21:24:12 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mdrwxr-xr-x   3 root     root            0 Feb 22 10:57 usr/lib/modules/4.18.0-240.el8.x86_64/kernel/drivers/i2c[0m
+May 28 21:24:12 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mdrwxr-xr-x   2 root     root            0 Feb 22 10:57 usr/lib/modules/4.18.0-240.el8.x86_64/kernel/drivers/i2c/algos[0m
+May 28 21:24:12 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         4952 Sep 25  2020 usr/lib/modules/4.18.0-240.el8.x86_64/kernel/drivers/i2c/algos/i2c-algo-bit.ko.xz[0m
+May 28 21:24:12 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mdrwxr-xr-x   4 root     root            0 Feb 22 10:57 usr/lib/modules/4.18.0-240.el8.x86_64/kernel/drivers/input[0m
+May 28 21:24:12 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         6352 Sep 25  2020 usr/lib/modules/4.18.0-240.el8.x86_64/kernel/drivers/input/ff-memless.ko.xz[0m
+May 28 21:24:12 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mdrwxr-xr-x   2 root     root            0 Feb 22 10:57 usr/lib/modules/4.18.0-240.el8.x86_64/kernel/drivers/input/rmi4[0m
+May 28 21:24:12 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root        32852 Sep 25  2020 usr/lib/modules/4.18.0-240.el8.x86_64/kernel/drivers/input/rmi4/rmi_core.ko.xz[0m
+May 28 21:24:12 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mdrwxr-xr-x   2 root     root            0 Feb 22 10:57 usr/lib/modules/4.18.0-240.el8.x86_64/kernel/drivers/input/serio[0m
+May 28 21:24:12 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         2728 Sep 25  2020 usr/lib/modules/4.18.0-240.el8.x86_64/kernel/drivers/input/serio/altera_ps2.ko.xz[0m
+May 28 21:24:12 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         3672 Sep 25  2020 usr/lib/modules/4.18.0-240.el8.x86_64/kernel/drivers/input/serio/arc_ps2.ko.xz[0m
+May 28 21:24:12 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         3824 Sep 25  2020 usr/lib/modules/4.18.0-240.el8.x86_64/kernel/drivers/input/serio/hyperv-keyboard.ko.xz[0m
+May 28 21:24:12 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         5428 Sep 25  2020 usr/lib/modules/4.18.0-240.el8.x86_64/kernel/drivers/input/serio/serio_raw.ko.xz[0m
+May 28 21:24:13 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mdrwxr-xr-x   2 root     root            0 Feb 22 10:57 usr/lib/modules/4.18.0-240.el8.x86_64/kernel/drivers/md[0m
+May 28 21:24:13 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root        14272 Sep 25  2020 usr/lib/modules/4.18.0-240.el8.x86_64/kernel/drivers/md/dm-bufio.ko.xz[0m
+May 28 21:24:13 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         6904 Sep 25  2020 usr/lib/modules/4.18.0-240.el8.x86_64/kernel/drivers/md/dm-log.ko.xz[0m
+May 28 21:24:13 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root        11416 Sep 25  2020 usr/lib/modules/4.18.0-240.el8.x86_64/kernel/drivers/md/dm-mirror.ko.xz[0m
+May 28 21:24:13 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root        60888 Sep 25  2020 usr/lib/modules/4.18.0-240.el8.x86_64/kernel/drivers/md/dm-mod.ko.xz[0m
+May 28 21:24:13 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         6952 Sep 25  2020 usr/lib/modules/4.18.0-240.el8.x86_64/kernel/drivers/md/dm-region-hash.ko.xz[0m
+May 28 21:24:13 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root        22484 Sep 25  2020 usr/lib/modules/4.18.0-240.el8.x86_64/kernel/drivers/md/dm-snapshot.ko.xz[0m
+May 28 21:24:13 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mdrwxr-xr-x   3 root     root            0 Feb 22 10:57 usr/lib/modules/4.18.0-240.el8.x86_64/kernel/drivers/media[0m
+May 28 21:24:13 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mdrwxr-xr-x   2 root     root            0 Feb 22 10:57 usr/lib/modules/4.18.0-240.el8.x86_64/kernel/drivers/media/rc[0m
+May 28 21:24:13 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root        22648 Sep 25  2020 usr/lib/modules/4.18.0-240.el8.x86_64/kernel/drivers/media/rc/rc-core.ko.xz[0m
+May 28 21:24:13 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mdrwxr-xr-x   4 root     root            0 Feb 22 10:57 usr/lib/modules/4.18.0-240.el8.x86_64/kernel/drivers/net[0m
+May 28 21:24:13 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mdrwxr-xr-x   4 root     root            0 Feb 22 10:57 usr/lib/modules/4.18.0-240.el8.x86_64/kernel/drivers/net/ethernet[0m
+May 28 21:24:13 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mdrwxr-xr-x   3 root     root            0 Feb 22 10:57 usr/lib/modules/4.18.0-240.el8.x86_64/kernel/drivers/net/ethernet/broadcom[0m
+May 28 21:24:13 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mdrwxr-xr-x   2 root     root            0 Feb 22 10:57 usr/lib/modules/4.18.0-240.el8.x86_64/kernel/drivers/net/ethernet/broadcom/bnx2x[0m
+May 28 21:24:13 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root       291216 Sep 25  2020 usr/lib/modules/4.18.0-240.el8.x86_64/kernel/drivers/net/ethernet/broadcom/bnx2x/bnx2x.ko.xz[0m
+May 28 21:24:13 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mdrwxr-xr-x   3 root     root            0 Feb 22 10:57 usr/lib/modules/4.18.0-240.el8.x86_64/kernel/drivers/net/ethernet/intel[0m
+May 28 21:24:13 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mdrwxr-xr-x   2 root     root            0 Feb 22 10:57 usr/lib/modules/4.18.0-240.el8.x86_64/kernel/drivers/net/ethernet/intel/ixgbe[0m
+May 28 21:24:13 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root       147548 Sep 25  2020 usr/lib/modules/4.18.0-240.el8.x86_64/kernel/drivers/net/ethernet/intel/ixgbe/ixgbe.ko.xz[0m
+May 28 21:24:13 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mdrwxr-xr-x   2 root     root            0 Feb 22 10:57 usr/lib/modules/4.18.0-240.el8.x86_64/kernel/drivers/net/fjes[0m
+May 28 21:24:13 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root        27424 Sep 25  2020 usr/lib/modules/4.18.0-240.el8.x86_64/kernel/drivers/net/fjes/fjes.ko.xz[0m
+May 28 21:24:13 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         4224 Sep 25  2020 usr/lib/modules/4.18.0-240.el8.x86_64/kernel/drivers/net/mdio.ko.xz[0m
+May 28 21:24:13 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mdrwxr-xr-x   3 root     root            0 Feb 22 10:57 usr/lib/modules/4.18.0-240.el8.x86_64/kernel/drivers/pinctrl[0m
+May 28 21:24:13 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mdrwxr-xr-x   2 root     root            0 Feb 22 10:57 usr/lib/modules/4.18.0-240.el8.x86_64/kernel/drivers/pinctrl/intel[0m
+May 28 21:24:13 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         6632 Sep 25  2020 usr/lib/modules/4.18.0-240.el8.x86_64/kernel/drivers/pinctrl/intel/pinctrl-broxton.ko.xz[0m
+May 28 21:24:13 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         5980 Sep 25  2020 usr/lib/modules/4.18.0-240.el8.x86_64/kernel/drivers/pinctrl/intel/pinctrl-cannonlake.ko.xz[0m
+May 28 21:24:13 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         3760 Sep 25  2020 usr/lib/modules/4.18.0-240.el8.x86_64/kernel/drivers/pinctrl/intel/pinctrl-cedarfork.ko.xz[0m
+May 28 21:24:13 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         3436 Sep 25  2020 usr/lib/modules/4.18.0-240.el8.x86_64/kernel/drivers/pinctrl/intel/pinctrl-denverton.ko.xz[0m
+May 28 21:24:13 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         4556 Sep 25  2020 usr/lib/modules/4.18.0-240.el8.x86_64/kernel/drivers/pinctrl/intel/pinctrl-geminilake.ko.xz[0m
+May 28 21:24:13 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         4332 Sep 25  2020 usr/lib/modules/4.18.0-240.el8.x86_64/kernel/drivers/pinctrl/intel/pinctrl-icelake.ko.xz[0m
+May 28 21:24:13 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root        10096 Sep 25  2020 usr/lib/modules/4.18.0-240.el8.x86_64/kernel/drivers/pinctrl/intel/pinctrl-intel.ko.xz[0m
+May 28 21:24:13 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         3612 Sep 25  2020 usr/lib/modules/4.18.0-240.el8.x86_64/kernel/drivers/pinctrl/intel/pinctrl-lewisburg.ko.xz[0m
+May 28 21:24:13 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         4760 Sep 25  2020 usr/lib/modules/4.18.0-240.el8.x86_64/kernel/drivers/pinctrl/intel/pinctrl-sunrisepoint.ko.xz[0m
+May 28 21:24:13 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         4120 Sep 25  2020 usr/lib/modules/4.18.0-240.el8.x86_64/kernel/drivers/pinctrl/intel/pinctrl-tigerlake.ko.xz[0m
+May 28 21:24:13 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         7620 Sep 25  2020 usr/lib/modules/4.18.0-240.el8.x86_64/kernel/drivers/pinctrl/pinctrl-amd.ko.xz[0m
+May 28 21:24:13 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mdrwxr-xr-x   2 root     root            0 Feb 22 10:57 usr/lib/modules/4.18.0-240.el8.x86_64/kernel/drivers/scsi[0m
+May 28 21:24:13 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root        45752 Sep 25  2020 usr/lib/modules/4.18.0-240.el8.x86_64/kernel/drivers/scsi/hpsa.ko.xz[0m
+May 28 21:24:13 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         4612 Sep 25  2020 usr/lib/modules/4.18.0-240.el8.x86_64/kernel/drivers/scsi/iscsi_boot_sysfs.ko.xz[0m
+May 28 21:24:13 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root        13868 Sep 25  2020 usr/lib/modules/4.18.0-240.el8.x86_64/kernel/drivers/scsi/scsi_transport_sas.ko.xz[0m
+May 28 21:24:13 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root        23148 Sep 25  2020 usr/lib/modules/4.18.0-240.el8.x86_64/kernel/drivers/scsi/sd_mod.ko.xz[0m
+May 28 21:24:13 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root        20432 Sep 25  2020 usr/lib/modules/4.18.0-240.el8.x86_64/kernel/drivers/scsi/sg.ko.xz[0m
+May 28 21:24:13 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root        11624 Sep 25  2020 usr/lib/modules/4.18.0-240.el8.x86_64/kernel/drivers/scsi/sr_mod.ko.xz[0m
+May 28 21:24:13 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mdrwxr-xr-x   3 root     root            0 Feb 22 10:57 usr/lib/modules/4.18.0-240.el8.x86_64/kernel/drivers/tty[0m
+May 28 21:24:13 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mdrwxr-xr-x   3 root     root            0 Feb 22 10:57 usr/lib/modules/4.18.0-240.el8.x86_64/kernel/drivers/tty/serial[0m
+May 28 21:24:13 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         2092 Sep 25  2020 usr/lib/modules/4.18.0-240.el8.x86_64/kernel/drivers/tty/serial/arc_uart.ko.xz[0m
+May 28 21:24:13 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mdrwxr-xr-x   2 root     root            0 Feb 22 10:57 usr/lib/modules/4.18.0-240.el8.x86_64/kernel/drivers/tty/serial/jsm[0m
+May 28 21:24:13 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root        18332 Sep 25  2020 usr/lib/modules/4.18.0-240.el8.x86_64/kernel/drivers/tty/serial/jsm/jsm.ko.xz[0m
+May 28 21:24:13 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mdrwxr-xr-x   3 root     root            0 Feb 22 10:57 usr/lib/modules/4.18.0-240.el8.x86_64/kernel/drivers/usb[0m
+May 28 21:24:13 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mdrwxr-xr-x   2 root     root            0 Feb 22 10:57 usr/lib/modules/4.18.0-240.el8.x86_64/kernel/drivers/usb/storage[0m
+May 28 21:24:13 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root        10344 Sep 25  2020 usr/lib/modules/4.18.0-240.el8.x86_64/kernel/drivers/usb/storage/uas.ko.xz[0m
+May 28 21:24:13 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         7520 Sep 25  2020 usr/lib/modules/4.18.0-240.el8.x86_64/kernel/drivers/usb/storage/ums-alauda.ko.xz[0m
+May 28 21:24:13 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         3264 Sep 25  2020 usr/lib/modules/4.18.0-240.el8.x86_64/kernel/drivers/usb/storage/ums-cypress.ko.xz[0m
+May 28 21:24:13 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         4940 Sep 25  2020 usr/lib/modules/4.18.0-240.el8.x86_64/kernel/drivers/usb/storage/ums-datafab.ko.xz[0m
+May 28 21:24:13 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         9776 Sep 25  2020 usr/lib/modules/4.18.0-240.el8.x86_64/kernel/drivers/usb/storage/ums-eneub6250.ko.xz[0m
+May 28 21:24:13 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         3284 Sep 25  2020 usr/lib/modules/4.18.0-240.el8.x86_64/kernel/drivers/usb/storage/ums-freecom.ko.xz[0m
+May 28 21:24:13 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         5124 Sep 25  2020 usr/lib/modules/4.18.0-240.el8.x86_64/kernel/drivers/usb/storage/ums-isd200.ko.xz[0m
+May 28 21:24:13 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         4592 Sep 25  2020 usr/lib/modules/4.18.0-240.el8.x86_64/kernel/drivers/usb/storage/ums-jumpshot.ko.xz[0m
+May 28 21:24:13 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         3116 Sep 25  2020 usr/lib/modules/4.18.0-240.el8.x86_64/kernel/drivers/usb/storage/ums-karma.ko.xz[0m
+May 28 21:24:13 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         4096 Sep 25  2020 usr/lib/modules/4.18.0-240.el8.x86_64/kernel/drivers/usb/storage/ums-onetouch.ko.xz[0m
+May 28 21:24:13 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         6796 Sep 25  2020 usr/lib/modules/4.18.0-240.el8.x86_64/kernel/drivers/usb/storage/ums-realtek.ko.xz[0m
+May 28 21:24:13 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         8504 Sep 25  2020 usr/lib/modules/4.18.0-240.el8.x86_64/kernel/drivers/usb/storage/ums-sddr09.ko.xz[0m
+May 28 21:24:13 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         5600 Sep 25  2020 usr/lib/modules/4.18.0-240.el8.x86_64/kernel/drivers/usb/storage/ums-sddr55.ko.xz[0m
+May 28 21:24:13 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         7304 Sep 25  2020 usr/lib/modules/4.18.0-240.el8.x86_64/kernel/drivers/usb/storage/ums-usbat.ko.xz[0m
+May 28 21:24:13 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root        28464 Sep 25  2020 usr/lib/modules/4.18.0-240.el8.x86_64/kernel/drivers/usb/storage/usb-storage.ko.xz[0m
+May 28 21:24:13 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mdrwxr-xr-x   4 root     root            0 Feb 22 10:57 usr/lib/modules/4.18.0-240.el8.x86_64/kernel/drivers/video[0m
+May 28 21:24:13 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mdrwxr-xr-x   2 root     root            0 Feb 22 10:57 usr/lib/modules/4.18.0-240.el8.x86_64/kernel/drivers/video/backlight[0m
+May 28 21:24:13 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         4508 Sep 25  2020 usr/lib/modules/4.18.0-240.el8.x86_64/kernel/drivers/video/backlight/lcd.ko.xz[0m
+May 28 21:24:13 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mdrwxr-xr-x   3 root     root            0 Feb 22 10:57 usr/lib/modules/4.18.0-240.el8.x86_64/kernel/drivers/video/fbdev[0m
+May 28 21:24:13 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mdrwxr-xr-x   2 root     root            0 Feb 22 10:57 usr/lib/modules/4.18.0-240.el8.x86_64/kernel/drivers/video/fbdev/core[0m
+May 28 21:24:13 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         2204 Sep 25  2020 usr/lib/modules/4.18.0-240.el8.x86_64/kernel/drivers/video/fbdev/core/fb_sys_fops.ko.xz[0m
+May 28 21:24:13 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         3228 Sep 25  2020 usr/lib/modules/4.18.0-240.el8.x86_64/kernel/drivers/video/fbdev/core/syscopyarea.ko.xz[0m
+May 28 21:24:13 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         3524 Sep 25  2020 usr/lib/modules/4.18.0-240.el8.x86_64/kernel/drivers/video/fbdev/core/sysfillrect.ko.xz[0m
+May 28 21:24:13 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         2740 Sep 25  2020 usr/lib/modules/4.18.0-240.el8.x86_64/kernel/drivers/video/fbdev/core/sysimgblt.ko.xz[0m
+May 28 21:24:13 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mdrwxr-xr-x   4 root     root            0 Feb 22 10:57 usr/lib/modules/4.18.0-240.el8.x86_64/kernel/fs[0m
+May 28 21:24:13 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mdrwxr-xr-x   2 root     root            0 Feb 22 10:57 usr/lib/modules/4.18.0-240.el8.x86_64/kernel/fs/fuse[0m
+May 28 21:24:13 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root        57488 Sep 25  2020 usr/lib/modules/4.18.0-240.el8.x86_64/kernel/fs/fuse/fuse.ko.xz[0m
+May 28 21:24:13 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mdrwxr-xr-x   2 root     root            0 Feb 22 10:57 usr/lib/modules/4.18.0-240.el8.x86_64/kernel/fs/xfs[0m
+May 28 21:24:13 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root       442696 Sep 25  2020 usr/lib/modules/4.18.0-240.el8.x86_64/kernel/fs/xfs/xfs.ko.xz[0m
+May 28 21:24:13 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mdrwxr-xr-x   2 root     root            0 Feb 22 10:57 usr/lib/modules/4.18.0-240.el8.x86_64/kernel/lib[0m
+May 28 21:24:13 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         2116 Sep 25  2020 usr/lib/modules/4.18.0-240.el8.x86_64/kernel/lib/libcrc32c.ko.xz[0m
+May 28 21:24:13 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mdrwxr-xr-x   5 root     root            0 Feb 22 10:57 usr/lib/modules/4.18.0-240.el8.x86_64/kernel/net[0m
+May 28 21:24:13 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mdrwxr-xr-x   2 root     root            0 Feb 22 10:57 usr/lib/modules/4.18.0-240.el8.x86_64/kernel/net/802[0m
+May 28 21:24:13 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         5928 Sep 25  2020 usr/lib/modules/4.18.0-240.el8.x86_64/kernel/net/802/garp.ko.xz[0m
+May 28 21:24:13 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         7084 Sep 25  2020 usr/lib/modules/4.18.0-240.el8.x86_64/kernel/net/802/mrp.ko.xz[0m
+May 28 21:24:13 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         2376 Sep 25  2020 usr/lib/modules/4.18.0-240.el8.x86_64/kernel/net/802/stp.ko.xz[0m
+May 28 21:24:13 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mdrwxr-xr-x   2 root     root            0 Feb 22 10:57 usr/lib/modules/4.18.0-240.el8.x86_64/kernel/net/8021q[0m
+May 28 21:24:13 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root        14460 Sep 25  2020 usr/lib/modules/4.18.0-240.el8.x86_64/kernel/net/8021q/8021q.ko.xz[0m
+May 28 21:24:13 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mdrwxr-xr-x   2 root     root            0 Feb 22 10:57 usr/lib/modules/4.18.0-240.el8.x86_64/kernel/net/llc[0m
+May 28 21:24:13 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         4680 Sep 25  2020 usr/lib/modules/4.18.0-240.el8.x86_64/kernel/net/llc/llc.ko.xz[0m
+May 28 21:24:13 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mdrwxr-xr-x   3 root     root            0 Feb 22 10:57 usr/lib/modules/4.18.0-240.el8.x86_64/kernel/sound[0m
+May 28 21:24:13 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mdrwxr-xr-x   2 root     root            0 Feb 22 10:57 usr/lib/modules/4.18.0-240.el8.x86_64/kernel/sound/core[0m
+May 28 21:24:13 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root        15452 Sep 25  2020 usr/lib/modules/4.18.0-240.el8.x86_64/kernel/sound/core/snd-rawmidi.ko.xz[0m
+May 28 21:24:13 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         3980 Sep 25  2020 usr/lib/modules/4.18.0-240.el8.x86_64/kernel/sound/core/snd-seq-device.ko.xz[0m
+May 28 21:24:13 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root        36756 Sep 25  2020 usr/lib/modules/4.18.0-240.el8.x86_64/kernel/sound/core/snd.ko.xz[0m
+May 28 21:24:13 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         5264 Sep 25  2020 usr/lib/modules/4.18.0-240.el8.x86_64/kernel/sound/soundcore.ko.xz[0m
+May 28 21:24:13 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root        76267 Feb 22 10:57 usr/lib/modules/4.18.0-240.el8.x86_64/modules.alias[0m
+May 28 21:24:13 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root        75224 Feb 22 10:57 usr/lib/modules/4.18.0-240.el8.x86_64/modules.alias.bin[0m
+May 28 21:24:13 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         7528 Sep 25  2020 usr/lib/modules/4.18.0-240.el8.x86_64/modules.builtin[0m
+May 28 21:24:13 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         9683 Feb 22 10:57 usr/lib/modules/4.18.0-240.el8.x86_64/modules.builtin.bin[0m
+May 28 21:24:13 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root        11326 Feb 22 10:57 usr/lib/modules/4.18.0-240.el8.x86_64/modules.dep[0m
+May 28 21:24:13 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root        17360 Feb 22 10:57 usr/lib/modules/4.18.0-240.el8.x86_64/modules.dep.bin[0m
+May 28 21:24:13 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root          118 Feb 22 10:57 usr/lib/modules/4.18.0-240.el8.x86_64/modules.devname[0m
+May 28 21:24:13 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root       101785 Sep 25  2020 usr/lib/modules/4.18.0-240.el8.x86_64/modules.order[0m
+May 28 21:24:13 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root           85 Feb 22 10:57 usr/lib/modules/4.18.0-240.el8.x86_64/modules.softdep[0m
+May 28 21:24:13 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root        65152 Feb 22 10:57 usr/lib/modules/4.18.0-240.el8.x86_64/modules.symbols[0m
+May 28 21:24:13 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root        74740 Feb 22 10:57 usr/lib/modules/4.18.0-240.el8.x86_64/modules.symbols.bin[0m
+May 28 21:24:13 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rwxr-xr-x   1 root     root        25333 Feb 22 10:57 usr/lib/net-lib.sh[0m
+May 28 21:24:13 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root          635 Feb 22 10:57 usr/lib/nm-lib.sh[0m
+May 28 21:24:13 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mlrwxrwxrwx   1 root     root           14 Feb 22 10:57 usr/lib/os-release -> initrd-release[0m
+May 28 21:24:13 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mdrwxr-xr-x   2 root     root            0 Feb 22 10:57 usr/lib/sysctl.d[0m
+May 28 21:24:13 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         1810 Jul 20  2020 usr/lib/sysctl.d/10-default-yama-scope.conf[0m
+May 28 21:24:13 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root          524 Feb 22 10:57 usr/lib/sysctl.d/50-coredump.conf[0m
+May 28 21:24:13 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         1270 Feb 22 10:57 usr/lib/sysctl.d/50-default.conf[0m
+May 28 21:24:13 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root          246 Jun 15  2020 usr/lib/sysctl.d/50-libkcapi-optmem_max.conf[0m
+May 28 21:24:13 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root          636 Feb 22 10:57 usr/lib/sysctl.d/50-pid-max.conf[0m
+May 28 21:24:13 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mdrwxr-xr-x   5 root     root            0 Feb 22 10:57 usr/lib/systemd[0m
+May 28 21:24:13 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rwxr-xr-x   1 root     root      2715688 Feb 22 10:57 usr/lib/systemd/libsystemd-shared-239.so[0m
+May 28 21:24:13 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mdrwxr-xr-x   2 root     root            0 Feb 22 10:57 usr/lib/systemd/network[0m
+May 28 21:24:13 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root          412 Jun 22  2018 usr/lib/systemd/network/99-default.link[0m
+May 28 21:24:13 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mdrwxr-xr-x  11 root     root            0 Feb 22 10:57 usr/lib/systemd/system[0m
+May 28 21:24:13 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mdrwxr-xr-x   2 root     root            0 Feb 22 10:57 usr/lib/systemd/system-generators[0m
+May 28 21:24:13 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rwxr-xr-x   1 root     root         4152 Feb 22 10:57 usr/lib/systemd/system-generators/dracut-rootfs-generator[0m
+May 28 21:24:13 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rwxr-xr-x   1 root     root        16648 Feb 22 10:57 usr/lib/systemd/system-generators/systemd-debug-generator[0m
+May 28 21:24:13 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rwxr-xr-x   1 root     root        45712 Feb 22 10:57 usr/lib/systemd/system-generators/systemd-fstab-generator[0m
+May 28 21:24:13 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rwxr-xr-x   1 root     root        29056 Feb 22 10:57 usr/lib/systemd/system-generators/systemd-gpt-auto-generator[0m
+May 28 21:24:13 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rwxr-xr-x   1 root     root        12568 Feb 22 10:57 usr/lib/systemd/system-generators/systemd-hibernate-resume-generator[0m
+May 28 21:24:13 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root          956 Feb 22 10:57 usr/lib/systemd/system/basic.target[0m
+May 28 21:24:13 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root          412 Jun 22  2018 usr/lib/systemd/system/cryptsetup.target[0m
+May 28 21:24:13 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mlrwxrwxrwx   1 root     root           13 Feb 22 10:57 usr/lib/systemd/system/ctrl-alt-del.target -> reboot.target[0m
+May 28 21:24:13 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         1084 Feb 22 10:57 usr/lib/systemd/system/debug-shell.service[0m
+May 28 21:24:13 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mlrwxrwxrwx   1 root     root           13 Feb 22 10:57 usr/lib/systemd/system/default.target -> initrd.target[0m
+May 28 21:24:13 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root          847 Oct  8  2018 usr/lib/systemd/system/dracut-cmdline-ask.service[0m
+May 28 21:24:13 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root          904 Oct  8  2018 usr/lib/systemd/system/dracut-cmdline.service[0m
+May 28 21:24:13 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root          681 Oct  8  2018 usr/lib/systemd/system/dracut-emergency.service[0m
+May 28 21:24:13 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root          821 Oct  8  2018 usr/lib/systemd/system/dracut-initqueue.service[0m
+May 28 21:24:13 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root          793 Oct  8  2018 usr/lib/systemd/system/dracut-mount.service[0m
+May 28 21:24:13 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root          822 Oct  8  2018 usr/lib/systemd/system/dracut-pre-mount.service[0m
+May 28 21:24:13 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         1125 Oct  8  2018 usr/lib/systemd/system/dracut-pre-pivot.service[0m
+May 28 21:24:13 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root          914 Oct  8  2018 usr/lib/systemd/system/dracut-pre-trigger.service[0m
+May 28 21:24:13 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root          993 Oct  8  2018 usr/lib/systemd/system/dracut-pre-udev.service[0m
+May 28 21:24:13 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   2 root     root            0 Oct  8  2018 usr/lib/systemd/system/emergency.service[0m
+May 28 21:24:13 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root          471 Jun 22  2018 usr/lib/systemd/system/emergency.target[0m
+May 28 21:24:13 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root          480 Jun 22  2018 usr/lib/systemd/system/final.target[0m
+May 28 21:24:13 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root          527 Jun 22  2018 usr/lib/systemd/system/halt.target[0m
+May 28 21:24:13 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mdrwxr-xr-x   2 root     root            0 Feb 22 10:57 usr/lib/systemd/system/halt.target.wants[0m
+May 28 21:24:13 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mlrwxrwxrwx   1 root     root           24 Feb 22 10:57 usr/lib/systemd/system/halt.target.wants/plymouth-halt.service -> ../plymouth-halt.service[0m
+May 28 21:24:13 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root          674 Feb 22 10:57 usr/lib/systemd/system/initrd-cleanup.service[0m
+May 28 21:24:13 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root          593 Jun 22  2018 usr/lib/systemd/system/initrd-fs.target[0m
+May 28 21:24:13 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root          842 Feb 22 10:57 usr/lib/systemd/system/initrd-parse-etc.service[0m
+May 28 21:24:13 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root          561 Jun 22  2018 usr/lib/systemd/system/initrd-root-device.target[0m
+May 28 21:24:13 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root          566 Jun 22  2018 usr/lib/systemd/system/initrd-root-fs.target[0m
+May 28 21:24:13 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root          593 Feb 22 10:57 usr/lib/systemd/system/initrd-switch-root.service[0m
+May 28 21:24:13 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root          754 Jun 22  2018 usr/lib/systemd/system/initrd-switch-root.target[0m
+May 28 21:24:13 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mdrwxr-xr-x   2 root     root            0 Feb 22 10:57 usr/lib/systemd/system/initrd-switch-root.target.wants[0m
+May 28 21:24:13 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mlrwxrwxrwx   1 root     root           25 Feb 22 10:57 usr/lib/systemd/system/initrd-switch-root.target.wants/plymouth-start.service -> ../plymouth-start.service[0m
+May 28 21:24:13 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mlrwxrwxrwx   1 root     root           31 Feb 22 10:57 usr/lib/systemd/system/initrd-switch-root.target.wants/plymouth-switch-root.service -> ../plymouth-switch-root.service[0m
+May 28 21:24:13 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root          708 Feb 22 10:57 usr/lib/systemd/system/initrd-udevadm-cleanup-db.service[0m
+May 28 21:24:13 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root          763 Jun 22  2018 usr/lib/systemd/system/initrd.target[0m
+May 28 21:24:13 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mdrwxr-xr-x   2 root     root            0 Feb 22 10:57 usr/lib/systemd/system/initrd.target.wants[0m
+May 28 21:24:13 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root          541 Jun 22  2018 usr/lib/systemd/system/kexec.target[0m
+May 28 21:24:13 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mdrwxr-xr-x   2 root     root            0 Feb 22 10:57 usr/lib/systemd/system/kexec.target.wants[0m
+May 28 21:24:13 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mlrwxrwxrwx   1 root     root           25 Feb 22 10:57 usr/lib/systemd/system/kexec.target.wants/plymouth-kexec.service -> ../plymouth-kexec.service[0m
+May 28 21:24:13 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root          721 Feb 22 10:57 usr/lib/systemd/system/kmod-static-nodes.service[0m
+May 28 21:24:13 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root          435 Jun 22  2018 usr/lib/systemd/system/local-fs-pre.target[0m
+May 28 21:24:13 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root          547 Jun 22  2018 usr/lib/systemd/system/local-fs.target[0m
+May 28 21:24:13 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root          322 Feb 22 10:57 usr/lib/systemd/system/memstrack.service[0m
+May 28 21:24:13 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root          532 Jun 22  2018 usr/lib/systemd/system/multi-user.target[0m
+May 28 21:24:13 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mdrwxr-xr-x   2 root     root            0 Feb 22 10:57 usr/lib/systemd/system/multi-user.target.wants[0m
+May 28 21:24:13 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mlrwxrwxrwx   1 root     root           29 Feb 22 10:57 usr/lib/systemd/system/multi-user.target.wants/plymouth-quit-wait.service -> ../plymouth-quit-wait.service[0m
+May 28 21:24:13 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mlrwxrwxrwx   1 root     root           24 Feb 22 10:57 usr/lib/systemd/system/multi-user.target.wants/plymouth-quit.service -> ../plymouth-quit.service[0m
+May 28 21:24:13 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root          505 Jun 22  2018 usr/lib/systemd/system/network-online.target[0m
+May 28 21:24:13 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root          502 Jun 22  2018 usr/lib/systemd/system/network-pre.target[0m
+May 28 21:24:13 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root          521 Jun 22  2018 usr/lib/systemd/system/network.target[0m
+May 28 21:24:13 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root          554 Jun 22  2018 usr/lib/systemd/system/nss-lookup.target[0m
+May 28 21:24:14 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root          513 Jun 22  2018 usr/lib/systemd/system/nss-user-lookup.target[0m
+May 28 21:24:14 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root          394 Jun 22  2018 usr/lib/systemd/system/paths.target[0m
+May 28 21:24:14 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root          418 Oct  6  2020 usr/lib/systemd/system/plymouth-halt.service[0m
+May 28 21:24:14 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root          418 Oct  6  2020 usr/lib/systemd/system/plymouth-kexec.service[0m
+May 28 21:24:14 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root          427 Oct  6  2020 usr/lib/systemd/system/plymouth-poweroff.service[0m
+May 28 21:24:14 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root          224 Oct  6  2020 usr/lib/systemd/system/plymouth-quit-wait.service[0m
+May 28 21:24:14 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root          218 Oct  6  2020 usr/lib/systemd/system/plymouth-quit.service[0m
+May 28 21:24:14 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root          420 Oct  6  2020 usr/lib/systemd/system/plymouth-reboot.service[0m
+May 28 21:24:14 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root          567 Oct  6  2020 usr/lib/systemd/system/plymouth-start.service[0m
+May 28 21:24:14 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root          315 Oct  6  2020 usr/lib/systemd/system/plymouth-switch-root.service[0m
+May 28 21:24:14 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root          592 Jun 22  2018 usr/lib/systemd/system/poweroff.target[0m
+May 28 21:24:14 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mdrwxr-xr-x   2 root     root            0 Feb 22 10:57 usr/lib/systemd/system/poweroff.target.wants[0m
+May 28 21:24:14 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mlrwxrwxrwx   1 root     root           28 Feb 22 10:57 usr/lib/systemd/system/poweroff.target.wants/plymouth-poweroff.service -> ../plymouth-poweroff.service[0m
+May 28 21:24:14 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root          583 Jun 22  2018 usr/lib/systemd/system/reboot.target[0m
+May 28 21:24:14 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mdrwxr-xr-x   2 root     root            0 Feb 22 10:57 usr/lib/systemd/system/reboot.target.wants[0m
+May 28 21:24:14 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mlrwxrwxrwx   1 root     root           26 Feb 22 10:57 usr/lib/systemd/system/reboot.target.wants/plymouth-reboot.service -> ../plymouth-reboot.service[0m
+May 28 21:24:14 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root          436 Jun 22  2018 usr/lib/systemd/system/remote-fs-pre.target[0m
+May 28 21:24:14 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root          522 Jun 22  2018 usr/lib/systemd/system/remote-fs.target[0m
+May 28 21:24:14 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   2 root     root          692 Oct  8  2018 usr/lib/systemd/system/rescue.service[0m
+May 28 21:24:14 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root          492 Jun 22  2018 usr/lib/systemd/system/rescue.target[0m
+May 28 21:24:14 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root          147 Feb 22 10:57 usr/lib/systemd/system/rngd.service[0m
+May 28 21:24:14 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root          540 Jun 22  2018 usr/lib/systemd/system/rpcbind.target[0m
+May 28 21:24:14 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root          442 Jun 22  2018 usr/lib/systemd/system/shutdown.target[0m
+May 28 21:24:14 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root          402 Jun 22  2018 usr/lib/systemd/system/sigpwr.target[0m
+May 28 21:24:14 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root          449 Jun 22  2018 usr/lib/systemd/system/slices.target[0m
+May 28 21:24:14 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root          396 Jun 22  2018 usr/lib/systemd/system/sockets.target[0m
+May 28 21:24:14 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mdrwxr-xr-x   2 root     root            0 Feb 22 10:57 usr/lib/systemd/system/sockets.target.wants[0m
+May 28 21:24:14 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mlrwxrwxrwx   1 root     root           34 Feb 22 10:57 usr/lib/systemd/system/sockets.target.wants/systemd-journald-dev-log.socket -> ../systemd-journald-dev-log.socket[0m
+May 28 21:24:14 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mlrwxrwxrwx   1 root     root           26 Feb 22 10:57 usr/lib/systemd/system/sockets.target.wants/systemd-journald.socket -> ../systemd-journald.socket[0m
+May 28 21:24:14 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mlrwxrwxrwx   1 root     root           31 Feb 22 10:57 usr/lib/systemd/system/sockets.target.wants/systemd-udevd-control.socket -> ../systemd-udevd-control.socket[0m
+May 28 21:24:14 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mlrwxrwxrwx   1 root     root           30 Feb 22 10:57 usr/lib/systemd/system/sockets.target.wants/systemd-udevd-kernel.socket -> ../systemd-udevd-kernel.socket[0m
+May 28 21:24:14 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root          393 Jun 22  2018 usr/lib/systemd/system/swap.target[0m
+May 28 21:24:14 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root          767 Jun 22  2018 usr/lib/systemd/system/sys-kernel-config.mount[0m
+May 28 21:24:14 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root          558 Jun 22  2018 usr/lib/systemd/system/sysinit.target[0m
+May 28 21:24:14 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mdrwxr-xr-x   2 root     root            0 Feb 22 10:57 usr/lib/systemd/system/sysinit.target.wants[0m
+May 28 21:24:14 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mlrwxrwxrwx   1 root     root           28 Feb 22 10:57 usr/lib/systemd/system/sysinit.target.wants/kmod-static-nodes.service -> ../kmod-static-nodes.service[0m
+May 28 21:24:14 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mlrwxrwxrwx   1 root     root           25 Feb 22 10:57 usr/lib/systemd/system/sysinit.target.wants/plymouth-start.service -> ../plymouth-start.service[0m
+May 28 21:24:14 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mlrwxrwxrwx   1 root     root           36 Feb 22 10:57 usr/lib/systemd/system/sysinit.target.wants/systemd-ask-password-console.path -> ../systemd-ask-password-console.path[0m
+May 28 21:24:14 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mlrwxrwxrwx   1 root     root           27 Feb 22 10:57 usr/lib/systemd/system/sysinit.target.wants/systemd-journald.service -> ../systemd-journald.service[0m
+May 28 21:24:14 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mlrwxrwxrwx   1 root     root           31 Feb 22 10:57 usr/lib/systemd/system/sysinit.target.wants/systemd-modules-load.service -> ../systemd-modules-load.service[0m
+May 28 21:24:14 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mlrwxrwxrwx   1 root     root           25 Feb 22 10:57 usr/lib/systemd/system/sysinit.target.wants/systemd-sysctl.service -> ../systemd-sysctl.service[0m
+May 28 21:24:14 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mlrwxrwxrwx   1 root     root           37 Feb 22 10:57 usr/lib/systemd/system/sysinit.target.wants/systemd-tmpfiles-setup-dev.service -> ../systemd-tmpfiles-setup-dev.service[0m
+May 28 21:24:14 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mlrwxrwxrwx   1 root     root           33 Feb 22 10:57 usr/lib/systemd/system/sysinit.target.wants/systemd-tmpfiles-setup.service -> ../systemd-tmpfiles-setup.service[0m
+May 28 21:24:14 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mlrwxrwxrwx   1 root     root           31 Feb 22 10:57 usr/lib/systemd/system/sysinit.target.wants/systemd-udev-trigger.service -> ../systemd-udev-trigger.service[0m
+May 28 21:24:14 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mlrwxrwxrwx   1 root     root           24 Feb 22 10:57 usr/lib/systemd/system/sysinit.target.wants/systemd-udevd.service -> ../systemd-udevd.service[0m
+May 28 21:24:14 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         1407 Jun 22  2018 usr/lib/systemd/system/syslog.socket[0m
+May 28 21:24:14 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root          704 Jun 22  2018 usr/lib/systemd/system/systemd-ask-password-console.path[0m
+May 28 21:24:14 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root          728 Feb 22 10:57 usr/lib/systemd/system/systemd-ask-password-console.service[0m
+May 28 21:24:14 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root          454 Oct  6  2020 usr/lib/systemd/system/systemd-ask-password-plymouth.path[0m
+May 28 21:24:14 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root          439 Oct  6  2020 usr/lib/systemd/system/systemd-ask-password-plymouth.service[0m
+May 28 21:24:14 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root          671 Feb 22 10:57 usr/lib/systemd/system/systemd-fsck@.service[0m
+May 28 21:24:14 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root          588 Feb 22 10:57 usr/lib/systemd/system/systemd-halt.service[0m
+May 28 21:24:14 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root          675 Feb 22 10:57 usr/lib/systemd/system/systemd-hibernate-resume@.service[0m
+May 28 21:24:14 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root          647 Feb 22 10:57 usr/lib/systemd/system/systemd-journald-audit.socket[0m
+May 28 21:24:14 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         1130 Jun 22  2018 usr/lib/systemd/system/systemd-journald-dev-log.socket[0m
+May 28 21:24:14 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         1537 Feb 22 10:57 usr/lib/systemd/system/systemd-journald.service[0m
+May 28 21:24:14 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root          882 Jun 22  2018 usr/lib/systemd/system/systemd-journald.socket[0m
+May 28 21:24:14 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root          601 Feb 22 10:57 usr/lib/systemd/system/systemd-kexec.service[0m
+May 28 21:24:14 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         1011 Feb 22 10:57 usr/lib/systemd/system/systemd-modules-load.service[0m
+May 28 21:24:14 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root          597 Feb 22 10:57 usr/lib/systemd/system/systemd-poweroff.service[0m
+May 28 21:24:14 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root          800 Feb 22 10:57 usr/lib/systemd/system/systemd-random-seed.service[0m
+May 28 21:24:14 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root          592 Feb 22 10:57 usr/lib/systemd/system/systemd-reboot.service[0m
+May 28 21:24:14 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root          697 Feb 22 10:57 usr/lib/systemd/system/systemd-sysctl.service[0m
+May 28 21:24:14 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root          771 Feb 22 10:57 usr/lib/systemd/system/systemd-tmpfiles-setup-dev.service[0m
+May 28 21:24:14 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root          751 Feb 22 10:57 usr/lib/systemd/system/systemd-tmpfiles-setup.service[0m
+May 28 21:24:14 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root          867 Feb 22 10:57 usr/lib/systemd/system/systemd-udev-settle.service[0m
+May 28 21:24:14 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root          771 Feb 22 10:57 usr/lib/systemd/system/systemd-udev-trigger.service[0m
+May 28 21:24:14 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root          635 Jun 22  2018 usr/lib/systemd/system/systemd-udevd-control.socket[0m
+May 28 21:24:14 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root          610 Jun 22  2018 usr/lib/systemd/system/systemd-udevd-kernel.socket[0m
+May 28 21:24:14 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         1070 Feb 22 10:57 usr/lib/systemd/system/systemd-udevd.service[0m
+May 28 21:24:14 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root          622 Feb 22 10:57 usr/lib/systemd/system/systemd-vconsole-setup.service[0m
+May 28 21:24:14 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root          445 Jun 22  2018 usr/lib/systemd/system/timers.target[0m
+May 28 21:24:14 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root          457 Jun 22  2018 usr/lib/systemd/system/umount.target[0m
+May 28 21:24:14 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rwxr-xr-x   1 root     root      1608816 Feb 22 10:57 usr/lib/systemd/systemd[0m
+May 28 21:24:14 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rwxr-xr-x   1 root     root        12520 Feb 22 10:57 usr/lib/systemd/systemd-cgroups-agent[0m
+May 28 21:24:14 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rwxr-xr-x   1 root     root        62136 Feb 22 10:57 usr/lib/systemd/systemd-coredump[0m
+May 28 21:24:14 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rwxr-xr-x   1 root     root        25184 Feb 22 10:57 usr/lib/systemd/systemd-fsck[0m
+May 28 21:24:14 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rwxr-xr-x   1 root     root        12520 Feb 22 10:57 usr/lib/systemd/systemd-hibernate-resume[0m
+May 28 21:24:14 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rwxr-xr-x   1 root     root       153536 Feb 22 10:57 usr/lib/systemd/systemd-journald[0m
+May 28 21:24:14 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rwxr-xr-x   1 root     root        20832 Feb 22 10:57 usr/lib/systemd/systemd-modules-load[0m
+May 28 21:24:14 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rwxr-xr-x   1 root     root        12528 Feb 22 10:57 usr/lib/systemd/systemd-reply-password[0m
+May 28 21:24:14 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rwxr-xr-x   1 root     root        62184 Feb 22 10:57 usr/lib/systemd/systemd-shutdown[0m
+May 28 21:24:14 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rwxr-xr-x   1 root     root        20744 Feb 22 10:57 usr/lib/systemd/systemd-sysctl[0m
+May 28 21:24:14 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rwxr-xr-x   1 root     root       417704 Feb 22 10:57 usr/lib/systemd/systemd-udevd[0m
+May 28 21:24:14 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rwxr-xr-x   1 root     root        20776 Feb 22 10:57 usr/lib/systemd/systemd-vconsole-setup[0m
+May 28 21:24:14 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mdrwxr-xr-x   2 root     root            0 Feb 22 10:57 usr/lib/tmpfiles.d[0m
+May 28 21:24:14 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root          135 Oct  8  2018 usr/lib/tmpfiles.d/dracut-tmpfiles.conf[0m
+May 28 21:24:14 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         1676 Feb 22 10:57 usr/lib/tmpfiles.d/systemd.conf[0m
+May 28 21:24:14 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mdrwxr-xr-x   3 root     root            0 Feb 22 10:57 usr/lib/udev[0m
+May 28 21:24:14 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rwxr-xr-x   1 root     root        16600 Feb 22 10:57 usr/lib/udev/ata_id[0m
+May 28 21:24:14 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rwxr-xr-x   1 root     root        32952 Feb 22 10:57 usr/lib/udev/cdrom_id[0m
+May 28 21:24:14 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mdrwxr-xr-x   2 root     root            0 Feb 22 10:57 usr/lib/udev/rules.d[0m
+May 28 21:24:14 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-r--r--r--   1 root     root         7266 Aug 17  2020 usr/lib/udev/rules.d/10-dm.rules[0m
+May 28 21:24:14 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-r--r--r--   1 root     root         2424 Aug 17  2020 usr/lib/udev/rules.d/11-dm-lvm.rules[0m
+May 28 21:24:14 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-r--r--r--   1 root     root         1794 Aug 17  2020 usr/lib/udev/rules.d/13-dm-disk.rules[0m
+May 28 21:24:14 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         1834 Feb 22 10:57 usr/lib/udev/rules.d/40-redhat.rules[0m
+May 28 21:24:14 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         3679 Feb 22 10:57 usr/lib/udev/rules.d/50-udev-default.rules[0m
+May 28 21:24:14 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root          626 Feb 22 10:57 usr/lib/udev/rules.d/60-block.rules[0m
+May 28 21:24:14 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         6528 Jun 22  2018 usr/lib/udev/rules.d/60-persistent-storage.rules[0m
+May 28 21:24:14 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-r--r--r--   1 root     root         6384 Feb 22 10:57 usr/lib/udev/rules.d/69-dm-lvm-metad.rules[0m
+May 28 21:24:14 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         2671 Jun 22  2018 usr/lib/udev/rules.d/70-uaccess.rules[0m
+May 28 21:24:14 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root          995 May 11  2019 usr/lib/udev/rules.d/71-biosdevname.rules[0m
+May 28 21:24:14 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         2758 Feb 22 10:57 usr/lib/udev/rules.d/71-seat.rules[0m
+May 28 21:24:14 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root          636 Feb 22 10:57 usr/lib/udev/rules.d/73-seat-late.rules[0m
+May 28 21:24:14 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root          452 Jun 22  2018 usr/lib/udev/rules.d/75-net-description.rules[0m
+May 28 21:24:14 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root          615 Jun 22  2018 usr/lib/udev/rules.d/80-drivers.rules[0m
+May 28 21:24:14 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root          292 Jun 22  2018 usr/lib/udev/rules.d/80-net-setup-link.rules[0m
+May 28 21:24:14 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         1682 Jan  5 10:45 usr/lib/udev/rules.d/85-nm-unmanaged.rules[0m
+May 28 21:24:14 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root          510 Feb 22 10:57 usr/lib/udev/rules.d/90-vconsole.rules[0m
+May 28 21:24:14 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-r--r--r--   1 root     root          483 Aug 17  2020 usr/lib/udev/rules.d/95-dm-notify.rules[0m
+May 28 21:24:14 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         4367 Feb 22 10:57 usr/lib/udev/rules.d/99-systemd.rules[0m
+May 28 21:24:14 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rwxr-xr-x   1 root     root        33728 Feb 22 10:57 usr/lib/udev/scsi_id[0m
+May 28 21:24:14 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mdrwxr-xr-x   6 root     root            0 Feb 22 10:57 usr/lib64[0m
+May 28 21:24:14 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mdrwxr-xr-x   3 root     root            0 Feb 22 10:57 usr/lib64/NetworkManager[0m
+May 28 21:24:14 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mdrwxr-xr-x   2 root     root            0 Feb 22 10:57 usr/lib64/NetworkManager/1.26.0-12.el8_3[0m
+May 28 21:24:14 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rwxr-xr-x   1 root     root        49240 Jan  5 10:45 usr/lib64/NetworkManager/1.26.0-12.el8_3/libnm-device-plugin-team.so[0m
+May 28 21:24:14 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rwxr-xr-x   1 root     root       293784 Jan  5 10:45 usr/lib64/NetworkManager/1.26.0-12.el8_3/libnm-settings-plugin-ifcfg-rh.so[0m
+May 28 21:24:14 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mdrwxr-xr-x   2 root     root            0 Feb 22 10:57 usr/lib64/bind9-export[0m
+May 28 21:24:14 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mlrwxrwxrwx   1 root     root           25 Feb 22 10:57 usr/lib64/bind9-export/libdns-export.so.1110 -> libdns-export.so.1110.0.3[0m
+May 28 21:24:14 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rwxr-xr-x   1 root     root      2361472 Feb 22 10:57 usr/lib64/bind9-export/libdns-export.so.1110.0.3[0m
+May 28 21:24:14 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mlrwxrwxrwx   1 root     root           24 Feb 22 10:57 usr/lib64/bind9-export/libirs-export.so.161 -> libirs-export.so.161.0.1[0m
+May 28 21:24:14 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rwxr-xr-x   1 root     root        48960 Feb 22 10:57 usr/lib64/bind9-export/libirs-export.so.161.0.1[0m
+May 28 21:24:14 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mlrwxrwxrwx   1 root     root           25 Feb 22 10:57 usr/lib64/bind9-export/libisc-export.so.1105 -> libisc-export.so.1105.1.0[0m
+May 28 21:24:14 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rwxr-xr-x   1 root     root       471688 Feb 22 10:57 usr/lib64/bind9-export/libisc-export.so.1105.1.0[0m
+May 28 21:24:14 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mlrwxrwxrwx   1 root     root           27 Feb 22 10:57 usr/lib64/bind9-export/libisccfg-export.so.163 -> libisccfg-export.so.163.0.8[0m
+May 28 21:24:14 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rwxr-xr-x   1 root     root       186416 Feb 22 10:57 usr/lib64/bind9-export/libisccfg-export.so.163.0.8[0m
+May 28 21:24:14 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mdrwxr-xr-x   2 root     root            0 Feb 22 10:57 usr/lib64/device-mapper[0m
+May 28 21:24:14 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-r-xr-xr-x   1 root     root        11800 Aug 17  2020 usr/lib64/device-mapper/libdevmapper-event-lvm2mirror.so[0m
+May 28 21:24:14 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-r-xr-xr-x   1 root     root        11784 Aug 17  2020 usr/lib64/device-mapper/libdevmapper-event-lvm2raid.so[0m
+May 28 21:24:14 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-r-xr-xr-x   1 root     root        15920 Aug 17  2020 usr/lib64/device-mapper/libdevmapper-event-lvm2snapshot.so[0m
+May 28 21:24:14 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-r-xr-xr-x   1 root     root        20040 Aug 17  2020 usr/lib64/device-mapper/libdevmapper-event-lvm2thin.so[0m
+May 28 21:24:14 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-r-xr-xr-x   1 root     root        20168 Aug 17  2020 usr/lib64/device-mapper/libdevmapper-event-lvm2vdo.so[0m
+May 28 21:24:14 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rwxr-xr-x   1 root     root       249720 Jul 20  2020 usr/lib64/ld-2.28.so[0m
+May 28 21:24:14 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mlrwxrwxrwx   1 root     root           10 Feb 22 10:57 usr/lib64/ld-linux-x86-64.so.2 -> ld-2.28.so[0m
+May 28 21:24:14 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mlrwxrwxrwx   1 root     root           18 Feb 22 10:57 usr/lib64/libacl.so.1 -> libacl.so.1.1.2253[0m
+May 28 21:24:14 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rwxr-xr-x   1 root     root        37440 May 10  2019 usr/lib64/libacl.so.1.1.2253[0m
+May 28 21:24:14 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mlrwxrwxrwx   1 root     root           15 Feb 22 10:57 usr/lib64/libaio.so.1 -> libaio.so.1.0.1[0m
+May 28 21:24:14 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rwxr-xr-x   1 root     root        12152 Nov  8  2019 usr/lib64/libaio.so.1.0.1[0m
+May 28 21:24:14 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mlrwxrwxrwx   1 root     root           19 Feb 22 10:57 usr/lib64/libattr.so.1 -> libattr.so.1.1.2448[0m
+May 28 21:24:14 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rwxr-xr-x   1 root     root        24616 May 10  2019 usr/lib64/libattr.so.1.1.2448[0m
+May 28 21:24:14 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mlrwxrwxrwx   1 root     root           17 Feb 22 10:57 usr/lib64/libaudit.so.1 -> libaudit.so.1.0.0[0m
+May 28 21:24:14 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rwxr-xr-x   1 root     root       122912 Apr 23  2020 usr/lib64/libaudit.so.1.0.0[0m
+May 28 21:24:14 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mlrwxrwxrwx   1 root     root           17 Feb 22 10:57 usr/lib64/libblkid.so.1 -> libblkid.so.1.1.0[0m
+May 28 21:24:14 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rwxr-xr-x   1 root     root       343040 Jul 21  2020 usr/lib64/libblkid.so.1.1.0[0m
+May 28 21:24:14 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mlrwxrwxrwx   1 root     root           24 Feb 22 10:57 usr/lib64/libbrotlicommon.so.1 -> libbrotlicommon.so.1.0.6[0m
+May 28 21:24:14 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rwxr-xr-x   1 root     root       130760 Jul 20  2020 usr/lib64/libbrotlicommon.so.1.0.6[0m
+May 28 21:24:14 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mlrwxrwxrwx   1 root     root           21 Feb 22 10:57 usr/lib64/libbrotlidec.so.1 -> libbrotlidec.so.1.0.6[0m
+May 28 21:24:14 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rwxr-xr-x   1 root     root        49000 Jul 20  2020 usr/lib64/libbrotlidec.so.1.0.6[0m
+May 28 21:24:14 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mlrwxrwxrwx   1 root     root           15 Feb 22 10:57 usr/lib64/libbz2.so.1 -> libbz2.so.1.0.6[0m
+May 28 21:24:14 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rwxr-xr-x   1 root     root        72816 May 10  2019 usr/lib64/libbz2.so.1.0.6[0m
+May 28 21:24:14 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rwxr-xr-x   1 root     root      3117256 Jul 20  2020 usr/lib64/libc-2.28.so[0m
+May 28 21:24:14 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mlrwxrwxrwx   1 root     root           12 Feb 22 10:57 usr/lib64/libc.so.6 -> libc-2.28.so[0m
+May 28 21:24:14 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mlrwxrwxrwx   1 root     root           18 Feb 22 10:57 usr/lib64/libcap-ng.so.0 -> libcap-ng.so.0.0.0[0m
+May 28 21:24:14 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rwxr-xr-x   1 root     root        24392 Apr  6  2020 usr/lib64/libcap-ng.so.0.0.0[0m
+May 28 21:24:14 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mlrwxrwxrwx   1 root     root           14 Feb 22 10:57 usr/lib64/libcap.so.2 -> libcap.so.2.26[0m
+May 28 21:24:14 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rwxr-xr-x   1 root     root        24544 Jun 15  2020 usr/lib64/libcap.so.2.26[0m
+May 28 21:24:14 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mlrwxrwxrwx   1 root     root           17 Feb 22 10:57 usr/lib64/libcom_err.so.2 -> libcom_err.so.2.1[0m
+May 28 21:24:14 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rwxr-xr-x   1 root     root        16880 Jul 17  2020 usr/lib64/libcom_err.so.2.1[0m
+May 28 21:24:14 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mlrwxrwxrwx   1 root     root           17 Feb 22 10:57 usr/lib64/libcrypt.so.1 -> libcrypt.so.1.1.0[0m
+May 28 21:24:14 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rwxr-xr-x   1 root     root       135760 May 10  2019 usr/lib64/libcrypt.so.1.1.0[0m
+May 28 21:24:14 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mlrwxrwxrwx   1 root     root           19 Feb 22 10:57 usr/lib64/libcrypto.so.1.1 -> libcrypto.so.1.1.1g[0m
+May 28 21:24:14 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rwxr-xr-x   1 root     root      3071312 Feb 22 10:57 usr/lib64/libcrypto.so.1.1.1g[0m
+May 28 21:24:14 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mlrwxrwxrwx   1 root     root           23 Feb 22 10:57 usr/lib64/libcryptsetup.so.12 -> libcryptsetup.so.12.6.0[0m
+May 28 21:24:14 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rwxr-xr-x   1 root     root       509688 Sep  2  2020 usr/lib64/libcryptsetup.so.12.6.0[0m
+May 28 21:24:14 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mlrwxrwxrwx   1 root     root           16 Feb 22 10:57 usr/lib64/libcurl.so.4 -> libcurl.so.4.5.0[0m
+May 28 21:24:14 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rwxr-xr-x   1 root     root       591800 Dec 17 17:46 usr/lib64/libcurl.so.4.5.0[0m
+May 28 21:24:14 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mlrwxrwxrwx   1 root     root           18 Feb 22 10:57 usr/lib64/libdaemon.so.0 -> libdaemon.so.0.5.0[0m
+May 28 21:24:14 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rwxr-xr-x   1 root     root        28672 May 11  2019 usr/lib64/libdaemon.so.0.5.0[0m
+May 28 21:24:14 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mlrwxrwxrwx   1 root     root           19 Feb 22 10:57 usr/lib64/libdbus-1.so.3 -> libdbus-1.so.3.19.7[0m
+May 28 21:24:14 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rwxr-xr-x   1 root     root       350992 Feb 22 10:57 usr/lib64/libdbus-1.so.3.19.7[0m
+May 28 21:24:14 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-r-xr-xr-x   1 root     root        11928 Aug 17  2020 usr/lib64/libdevmapper-event-lvm2.so.2.03[0m
+May 28 21:24:14 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mlrwxrwxrwx   1 root     root           46 Feb 22 10:57 usr/lib64/libdevmapper-event-lvm2mirror.so -> device-mapper/libdevmapper-event-lvm2mirror.so[0m
+May 28 21:24:14 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mlrwxrwxrwx   1 root     root           44 Feb 22 10:57 usr/lib64/libdevmapper-event-lvm2raid.so -> device-mapper/libdevmapper-event-lvm2raid.so[0m
+May 28 21:24:14 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mlrwxrwxrwx   1 root     root           48 Feb 22 10:57 usr/lib64/libdevmapper-event-lvm2snapshot.so -> device-mapper/libdevmapper-event-lvm2snapshot.so[0m
+May 28 21:24:15 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mlrwxrwxrwx   1 root     root           44 Feb 22 10:57 usr/lib64/libdevmapper-event-lvm2thin.so -> device-mapper/libdevmapper-event-lvm2thin.so[0m
+May 28 21:24:15 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mlrwxrwxrwx   1 root     root           43 Feb 22 10:57 usr/lib64/libdevmapper-event-lvm2vdo.so -> device-mapper/libdevmapper-event-lvm2vdo.so[0m
+May 28 21:24:15 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-r-xr-xr-x   1 root     root        28432 Aug 17  2020 usr/lib64/libdevmapper-event.so.1.02[0m
+May 28 21:24:15 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-r-xr-xr-x   1 root     root       371272 Aug 17  2020 usr/lib64/libdevmapper.so.1.02[0m
+May 28 21:24:15 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rwxr-xr-x   1 root     root        28184 Jul 20  2020 usr/lib64/libdl-2.28.so[0m
+May 28 21:24:15 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mlrwxrwxrwx   1 root     root           13 Feb 22 10:57 usr/lib64/libdl.so.2 -> libdl-2.28.so[0m
+May 28 21:24:15 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rwxr-xr-x   1 root     root       657944 Jul 20  2020 usr/lib64/libdw-0.180.so[0m
+May 28 21:24:15 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mlrwxrwxrwx   1 root     root           14 Feb 22 10:57 usr/lib64/libdw.so.1 -> libdw-0.180.so[0m
+May 28 21:24:15 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rwxr-xr-x   1 root     root       104120 Jul 20  2020 usr/lib64/libelf-0.180.so[0m
+May 28 21:24:15 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mlrwxrwxrwx   1 root     root           15 Feb 22 10:57 usr/lib64/libelf.so.1 -> libelf-0.180.so[0m
+May 28 21:24:15 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mlrwxrwxrwx   1 root     root           15 Feb 22 10:57 usr/lib64/libffi.so.6 -> libffi.so.6.0.2[0m
+May 28 21:24:15 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rwxr-xr-x   1 root     root        36592 Jun 15  2020 usr/lib64/libffi.so.6.0.2[0m
+May 28 21:24:15 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rwxr-xr-x   1 root     root        11760 Dec 17 20:01 usr/lib64/libfreebl3.so[0m
+May 28 21:24:15 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root          898 Dec 17 20:01 usr/lib64/libfreeblpriv3.chk[0m
+May 28 21:24:15 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rwxr-xr-x   1 root     root       737208 Dec 17 20:01 usr/lib64/libfreeblpriv3.so[0m
+May 28 21:24:15 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rwxr-xr-x   1 root     root        99624 Jun 15  2020 usr/lib64/libgcc_s-8-20191121.so.1[0m
+May 28 21:24:15 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mlrwxrwxrwx   1 root     root           24 Feb 22 10:57 usr/lib64/libgcc_s.so.1 -> libgcc_s-8-20191121.so.1[0m
+May 28 21:24:15 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mlrwxrwxrwx   1 root     root           19 Feb 22 10:57 usr/lib64/libgcrypt.so.20 -> libgcrypt.so.20.2.5[0m
+May 28 21:24:15 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rwxr-xr-x   1 root     root      1187464 Jul 20  2020 usr/lib64/libgcrypt.so.20.2.5[0m
+May 28 21:24:15 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mlrwxrwxrwx   1 root     root           22 Feb 22 10:57 usr/lib64/libgio-2.0.so.0 -> libgio-2.0.so.0.5600.4[0m
+May 28 21:24:15 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rwxr-xr-x   1 root     root      1765544 Apr 23  2020 usr/lib64/libgio-2.0.so.0.5600.4[0m
+May 28 21:24:15 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mlrwxrwxrwx   1 root     root           23 Feb 22 10:57 usr/lib64/libglib-2.0.so.0 -> libglib-2.0.so.0.5600.4[0m
+May 28 21:24:15 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rwxr-xr-x   1 root     root      1167632 Apr 23  2020 usr/lib64/libglib-2.0.so.0.5600.4[0m
+May 28 21:24:15 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mlrwxrwxrwx   1 root     root           26 Feb 22 10:57 usr/lib64/libgmodule-2.0.so.0 -> libgmodule-2.0.so.0.5600.4[0m
+May 28 21:24:15 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rwxr-xr-x   1 root     root        15944 Apr 23  2020 usr/lib64/libgmodule-2.0.so.0.5600.4[0m
+May 28 21:24:15 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mlrwxrwxrwx   1 root     root           16 Feb 22 10:57 usr/lib64/libgmp.so.10 -> libgmp.so.10.3.2[0m
+May 28 21:24:15 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rwxr-xr-x   1 root     root       629160 Nov  8  2019 usr/lib64/libgmp.so.10.3.2[0m
+May 28 21:24:15 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mlrwxrwxrwx   1 root     root           20 Feb 22 10:57 usr/lib64/libgnutls.so.30 -> libgnutls.so.30.28.0[0m
+May 28 21:24:15 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rwxr-xr-x   1 root     root      2051888 Feb 22 10:57 usr/lib64/libgnutls.so.30.28.0[0m
+May 28 21:24:15 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mlrwxrwxrwx   1 root     root           26 Feb 22 10:57 usr/lib64/libgobject-2.0.so.0 -> libgobject-2.0.so.0.5600.4[0m
+May 28 21:24:15 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rwxr-xr-x   1 root     root       347112 Apr 23  2020 usr/lib64/libgobject-2.0.so.0.5600.4[0m
+May 28 21:24:15 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mlrwxrwxrwx   1 root     root           22 Feb 22 10:57 usr/lib64/libgpg-error.so.0 -> libgpg-error.so.0.24.2[0m
+May 28 21:24:15 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rwxr-xr-x   1 root     root       138368 May 10  2019 usr/lib64/libgpg-error.so.0.24.2[0m
+May 28 21:24:15 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mlrwxrwxrwx   1 root     root           21 Feb 22 10:57 usr/lib64/libgssapi_krb5.so.2 -> libgssapi_krb5.so.2.2[0m
+May 28 21:24:15 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rwxr-xr-x   1 root     root       355712 Aug 11  2020 usr/lib64/libgssapi_krb5.so.2.2[0m
+May 28 21:24:15 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mlrwxrwxrwx   1 root     root           17 Feb 22 10:57 usr/lib64/libhogweed.so.4 -> libhogweed.so.4.5[0m
+May 28 21:24:15 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rwxr-xr-x   1 root     root       201200 Feb 22 10:57 usr/lib64/libhogweed.so.4.5[0m
+May 28 21:24:15 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mlrwxrwxrwx   1 root     root           16 Feb 22 10:57 usr/lib64/libidn2.so.0 -> libidn2.so.0.3.6[0m
+May 28 21:24:15 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rwxr-xr-x   1 root     root       123248 Nov  8  2019 usr/lib64/libidn2.so.0.3.6[0m
+May 28 21:24:15 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mlrwxrwxrwx   1 root     root           17 Feb 22 10:57 usr/lib64/libip4tc.so.2 -> libip4tc.so.2.0.0[0m
+May 28 21:24:15 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rwxr-xr-x   1 root     root        33272 Dec 17 18:27 usr/lib64/libip4tc.so.2.0.0[0m
+May 28 21:24:15 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mlrwxrwxrwx   1 root     root           20 Feb 22 10:57 usr/lib64/libjansson.so.4 -> libjansson.so.4.11.0[0m
+May 28 21:24:15 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rwxr-xr-x   1 root     root        62472 May 11  2019 usr/lib64/libjansson.so.4.11.0[0m
+May 28 21:24:15 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mlrwxrwxrwx   1 root     root           18 Feb 22 10:57 usr/lib64/libjson-c.so.4 -> libjson-c.so.4.0.0[0m
+May 28 21:24:15 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rwxr-xr-x   1 root     root        66496 May 11  2019 usr/lib64/libjson-c.so.4.0.0[0m
+May 28 21:24:15 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mlrwxrwxrwx   1 root     root           18 Feb 22 10:57 usr/lib64/libk5crypto.so.3 -> libk5crypto.so.3.1[0m
+May 28 21:24:15 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rwxr-xr-x   1 root     root        96184 Aug 11  2020 usr/lib64/libk5crypto.so.3.1[0m
+May 28 21:24:15 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mlrwxrwxrwx   1 root     root           18 Feb 22 10:57 usr/lib64/libkeyutils.so.1 -> libkeyutils.so.1.6[0m
+May 28 21:24:15 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rwxr-xr-x   1 root     root        15992 May 10  2019 usr/lib64/libkeyutils.so.1.6[0m
+May 28 21:24:15 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mlrwxrwxrwx   1 root     root           16 Feb 22 10:57 usr/lib64/libkmod.so.2 -> libkmod.so.2.3.3[0m
+May 28 21:24:15 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rwxr-xr-x   1 root     root        99824 Apr  6  2020 usr/lib64/libkmod.so.2.3.3[0m
+May 28 21:24:15 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mlrwxrwxrwx   1 root     root           14 Feb 22 10:57 usr/lib64/libkrb5.so.3 -> libkrb5.so.3.3[0m
+May 28 21:24:15 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rwxr-xr-x   1 root     root       967424 Aug 11  2020 usr/lib64/libkrb5.so.3.3[0m
+May 28 21:24:15 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mlrwxrwxrwx   1 root     root           21 Feb 22 10:57 usr/lib64/libkrb5support.so.0 -> libkrb5support.so.0.1[0m
+May 28 21:24:15 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rwxr-xr-x   1 root     root        71208 Aug 11  2020 usr/lib64/libkrb5support.so.0.1[0m
+May 28 21:24:15 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mlrwxrwxrwx   1 root     root           21 Feb 22 10:57 usr/lib64/liblber-2.4.so.2 -> liblber-2.4.so.2.10.9[0m
+May 28 21:24:15 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rwxr-xr-x   1 root     root        66696 Jul 20  2020 usr/lib64/liblber-2.4.so.2.10.9[0m
+May 28 21:24:15 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mlrwxrwxrwx   1 root     root           21 Feb 22 10:57 usr/lib64/libldap-2.4.so.2 -> libldap-2.4.so.2.10.9[0m
+May 28 21:24:15 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rwxr-xr-x   1 root     root       324744 Jul 20  2020 usr/lib64/libldap-2.4.so.2.10.9[0m
+May 28 21:24:15 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-r-xr-xr-x   1 root     root      2535392 Aug 17  2020 usr/lib64/liblvm2cmd.so.2.03[0m
+May 28 21:24:15 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mlrwxrwxrwx   1 root     root           15 Feb 22 10:57 usr/lib64/liblz4.so.1 -> liblz4.so.1.8.3[0m
+May 28 21:24:15 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rwxr-xr-x   1 root     root       119248 Jun 15  2020 usr/lib64/liblz4.so.1.8.3[0m
+May 28 21:24:15 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mlrwxrwxrwx   1 root     root           16 Feb 22 10:57 usr/lib64/liblzma.so.5 -> liblzma.so.5.2.4[0m
+May 28 21:24:15 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rwxr-xr-x   1 root     root       161792 May 10  2019 usr/lib64/liblzma.so.5.2.4[0m
+May 28 21:24:15 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rwxr-xr-x   1 root     root      2171408 Jul 20  2020 usr/lib64/libm-2.28.so[0m
+May 28 21:24:15 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mlrwxrwxrwx   1 root     root           12 Feb 22 10:57 usr/lib64/libm.so.6 -> libm-2.28.so[0m
+May 28 21:24:15 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mlrwxrwxrwx   1 root     root           15 Feb 22 10:57 usr/lib64/libmnl.so.0 -> libmnl.so.0.2.0[0m
+May 28 21:24:15 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rwxr-xr-x   1 root     root        24688 May 11  2019 usr/lib64/libmnl.so.0.2.0[0m
+May 28 21:24:15 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mlrwxrwxrwx   1 root     root           17 Feb 22 10:57 usr/lib64/libmount.so.1 -> libmount.so.1.1.0[0m
+May 28 21:24:15 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rwxr-xr-x   1 root     root       370832 Jul 21  2020 usr/lib64/libmount.so.1.1.0[0m
+May 28 21:24:15 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mlrwxrwxrwx   1 root     root           17 Feb 22 10:57 usr/lib64/libncurses.so.6 -> libncurses.so.6.1[0m
+May 28 21:24:15 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rwxr-xr-x   1 root     root       179960 May 10  2019 usr/lib64/libncurses.so.6.1[0m
+May 28 21:24:15 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mlrwxrwxrwx   1 root     root           15 Feb 22 10:57 usr/lib64/libndp.so.0 -> libndp.so.0.1.1[0m
+May 28 21:24:15 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rwxr-xr-x   1 root     root        28592 Apr  6  2020 usr/lib64/libndp.so.0.1.1[0m
+May 28 21:24:15 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mlrwxrwxrwx   1 root     root           16 Feb 22 10:57 usr/lib64/libnettle.so.6 -> libnettle.so.6.5[0m
+May 28 21:24:15 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rwxr-xr-x   1 root     root       238992 Feb 22 10:57 usr/lib64/libnettle.so.6.5[0m
+May 28 21:24:15 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mlrwxrwxrwx   1 root     root           21 Feb 22 10:57 usr/lib64/libnghttp2.so.14 -> libnghttp2.so.14.17.0[0m
+May 28 21:24:15 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rwxr-xr-x   1 root     root       166456 Jun 26  2020 usr/lib64/libnghttp2.so.14.17.0[0m
+May 28 21:24:15 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mlrwxrwxrwx   1 root     root           19 Feb 22 10:57 usr/lib64/libnl-3.so.200 -> libnl-3.so.200.26.0[0m
+May 28 21:24:15 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rwxr-xr-x   1 root     root       146504 Apr  6  2020 usr/lib64/libnl-3.so.200.26.0[0m
+May 28 21:24:15 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mlrwxrwxrwx   1 root     root           23 Feb 22 10:57 usr/lib64/libnl-cli-3.so.200 -> libnl-cli-3.so.200.26.0[0m
+May 28 21:24:15 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rwxr-xr-x   1 root     root        48960 Apr  6  2020 usr/lib64/libnl-cli-3.so.200.26.0[0m
+May 28 21:24:15 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mlrwxrwxrwx   1 root     root           24 Feb 22 10:57 usr/lib64/libnl-genl-3.so.200 -> libnl-genl-3.so.200.26.0[0m
+May 28 21:24:15 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rwxr-xr-x   1 root     root        29744 Apr  6  2020 usr/lib64/libnl-genl-3.so.200.26.0[0m
+May 28 21:24:15 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mlrwxrwxrwx   1 root     root           22 Feb 22 10:57 usr/lib64/libnl-nf-3.so.200 -> libnl-nf-3.so.200.26.0[0m
+May 28 21:24:15 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rwxr-xr-x   1 root     root       106992 Apr  6  2020 usr/lib64/libnl-nf-3.so.200.26.0[0m
+May 28 21:24:15 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mlrwxrwxrwx   1 root     root           25 Feb 22 10:57 usr/lib64/libnl-route-3.so.200 -> libnl-route-3.so.200.26.0[0m
+May 28 21:24:15 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rwxr-xr-x   1 root     root       548872 Apr  6  2020 usr/lib64/libnl-route-3.so.200.26.0[0m
+May 28 21:24:15 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rwxr-xr-x   1 root     root        34800 Jul 20  2020 usr/lib64/libnss_dns-2.28.so[0m
+May 28 21:24:15 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mlrwxrwxrwx   1 root     root           18 Feb 22 10:57 usr/lib64/libnss_dns.so.2 -> libnss_dns-2.28.so[0m
+May 28 21:24:15 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rwxr-xr-x   1 root     root        75816 Jul 20  2020 usr/lib64/libnss_files-2.28.so[0m
+May 28 21:24:15 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mlrwxrwxrwx   1 root     root           20 Feb 22 10:57 usr/lib64/libnss_files.so.2 -> libnss_files-2.28.so[0m
+May 28 21:24:15 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mlrwxrwxrwx   1 root     root           17 Feb 22 10:57 usr/lib64/libomapi.so.0 -> libomapi.so.0.0.0[0m
+May 28 21:24:15 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rwxr-xr-x   1 root     root       136288 Jun  2  2020 usr/lib64/libomapi.so.0.0.0[0m
+May 28 21:24:15 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mlrwxrwxrwx   1 root     root           19 Feb 22 10:57 usr/lib64/libp11-kit.so.0 -> libp11-kit.so.0.3.0[0m
+May 28 21:24:15 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rwxr-xr-x   1 root     root      1282424 Jul  1  2019 usr/lib64/libp11-kit.so.0.3.0[0m
+May 28 21:24:15 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mlrwxrwxrwx   1 root     root           16 Feb 22 10:57 usr/lib64/libpam.so.0 -> libpam.so.0.84.2[0m
+May 28 21:24:15 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rwxr-xr-x   1 root     root        65840 Jun 15  2020 usr/lib64/libpam.so.0.84.2[0m
+May 28 21:24:15 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mlrwxrwxrwx   1 root     root           16 Feb 22 10:57 usr/lib64/libpcap.so.1 -> libpcap.so.1.9.1[0m
+May 28 21:24:15 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rwxr-xr-x   1 root     root       303512 Aug  3  2020 usr/lib64/libpcap.so.1.9.1[0m
+May 28 21:24:15 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mlrwxrwxrwx   1 root     root           15 Feb 22 10:57 usr/lib64/libpci.so.3 -> libpci.so.3.6.4[0m
+May 28 21:24:15 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rwxr-xr-x   1 root     root        58848 May 15  2020 usr/lib64/libpci.so.3.6.4[0m
+May 28 21:24:15 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mlrwxrwxrwx   1 root     root           17 Feb 22 10:57 usr/lib64/libpcre.so.1 -> libpcre.so.1.2.10[0m
+May 28 21:24:15 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rwxr-xr-x   1 root     root       464520 May 11  2019 usr/lib64/libpcre.so.1.2.10[0m
+May 28 21:24:15 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mlrwxrwxrwx   1 root     root           19 Feb 22 10:57 usr/lib64/libpcre2-8.so.0 -> libpcre2-8.so.0.7.1[0m
+May 28 21:24:15 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rwxr-xr-x   1 root     root       542728 Jun 16  2020 usr/lib64/libpcre2-8.so.0.7.1[0m
+May 28 21:24:15 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mlrwxrwxrwx   1 root     root           27 Feb 22 10:57 usr/lib64/libply-splash-core.so.5 -> libply-splash-core.so.5.0.0[0m
+May 28 21:24:15 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rwxr-xr-x   1 root     root       143464 Oct  6  2020 usr/lib64/libply-splash-core.so.5.0.0[0m
+May 28 21:24:15 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mlrwxrwxrwx   1 root     root           15 Feb 22 10:57 usr/lib64/libply.so.5 -> libply.so.5.0.0[0m
+May 28 21:24:15 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rwxr-xr-x   1 root     root       115432 Oct  6  2020 usr/lib64/libply.so.5.0.0[0m
+May 28 21:24:15 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mlrwxrwxrwx   1 root     root           18 Feb 22 10:57 usr/lib64/libprocps.so.7 -> libprocps.so.7.1.0[0m
+May 28 21:24:15 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rwxr-xr-x   1 root     root        82856 Feb 22 10:57 usr/lib64/libprocps.so.7.1.0[0m
+May 28 21:24:15 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mlrwxrwxrwx   1 root     root           15 Feb 22 10:57 usr/lib64/libpsl.so.5 -> libpsl.so.5.3.1[0m
+May 28 21:24:15 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rwxr-xr-x   1 root     root        69672 Jun 16  2020 usr/lib64/libpsl.so.5.3.1[0m
+May 28 21:24:15 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rwxr-xr-x   1 root     root       314480 Jul 20  2020 usr/lib64/libpthread-2.28.so[0m
+May 28 21:24:15 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mlrwxrwxrwx   1 root     root           18 Feb 22 10:57 usr/lib64/libpthread.so.0 -> libpthread-2.28.so[0m
+May 28 21:24:15 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mlrwxrwxrwx   1 root     root           18 Feb 22 10:57 usr/lib64/libreadline.so.7 -> libreadline.so.7.0[0m
+May 28 21:24:15 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rwxr-xr-x   1 root     root       324792 May 10  2019 usr/lib64/libreadline.so.7.0[0m
+May 28 21:24:15 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rwxr-xr-x   1 root     root       122000 Jul 20  2020 usr/lib64/libresolv-2.28.so[0m
+May 28 21:24:15 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mlrwxrwxrwx   1 root     root           17 Feb 22 10:57 usr/lib64/libresolv.so.2 -> libresolv-2.28.so[0m
+May 28 21:24:15 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rwxr-xr-x   1 root     root        67656 Jul 20  2020 usr/lib64/librt-2.28.so[0m
+May 28 21:24:15 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mlrwxrwxrwx   1 root     root           13 Feb 22 10:57 usr/lib64/librt.so.1 -> librt-2.28.so[0m
+May 28 21:24:15 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mlrwxrwxrwx   1 root     root           17 Feb 22 10:57 usr/lib64/libsasl2.so.3 -> libsasl2.so.3.0.0[0m
+May 28 21:24:15 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rwxr-xr-x   1 root     root       124904 May 15  2020 usr/lib64/libsasl2.so.3.0.0[0m
+May 28 21:24:15 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mlrwxrwxrwx   1 root     root           19 Feb 22 10:57 usr/lib64/libseccomp.so.2 -> libseccomp.so.2.4.3[0m
+May 28 21:24:15 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rwxr-xr-x   1 root     root       312208 Apr 26  2020 usr/lib64/libseccomp.so.2.4.3[0m
+May 28 21:24:15 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rwxr-xr-x   1 root     root       167760 Nov 13  2020 usr/lib64/libselinux.so.1[0m
+May 28 21:24:15 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rwxr-xr-x   1 root     root       738976 Nov  8  2019 usr/lib64/libsepol.so.1[0m
+May 28 21:24:15 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mlrwxrwxrwx   1 root     root           21 Feb 22 10:57 usr/lib64/libsmartcols.so.1 -> libsmartcols.so.1.1.0[0m
+May 28 21:24:15 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rwxr-xr-x   1 root     root       216888 Jul 21  2020 usr/lib64/libsmartcols.so.1.1.0[0m
+May 28 21:24:15 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mlrwxrwxrwx   1 root     root           15 Feb 22 10:57 usr/lib64/libssh.so.4 -> libssh.so.4.8.5[0m
+May 28 21:24:15 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rwxr-xr-x   1 root     root       464752 Jul 21  2020 usr/lib64/libssh.so.4.8.5[0m
+May 28 21:24:15 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mlrwxrwxrwx   1 root     root           16 Feb 22 10:57 usr/lib64/libssl.so.1.1 -> libssl.so.1.1.1g[0m
+May 28 21:24:15 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rwxr-xr-x   1 root     root       615152 Feb 22 10:57 usr/lib64/libssl.so.1.1.1g[0m
+May 28 21:24:15 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mlrwxrwxrwx   1 root     root           17 Feb 22 10:57 usr/lib64/libsysfs.so.2 -> libsysfs.so.2.0.1[0m
+May 28 21:24:15 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rwxr-xr-x   1 root     root        49464 May 11  2019 usr/lib64/libsysfs.so.2.0.1[0m
+May 28 21:24:15 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mlrwxrwxrwx   1 root     root           20 Feb 22 10:57 usr/lib64/libsystemd.so.0 -> libsystemd.so.0.23.0[0m
+May 28 21:24:15 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rwxr-xr-x   1 root     root      1358424 Feb 22 10:57 usr/lib64/libsystemd.so.0.23.0[0m
+May 28 21:24:15 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mlrwxrwxrwx   1 root     root           17 Feb 22 10:57 usr/lib64/libtasn1.so.6 -> libtasn1.so.6.5.5[0m
+May 28 21:24:15 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rwxr-xr-x   1 root     root        78480 May 10  2019 usr/lib64/libtasn1.so.6.5.5[0m
+May 28 21:24:15 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mlrwxrwxrwx   1 root     root           16 Feb 22 10:57 usr/lib64/libteam.so.5 -> libteam.so.5.6.1[0m
+May 28 21:24:15 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rwxr-xr-x   1 root     root        57456 Sep  8  2020 usr/lib64/libteam.so.5.6.1[0m
+May 28 21:24:15 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mlrwxrwxrwx   1 root     root           20 Feb 22 10:57 usr/lib64/libteamdctl.so.0 -> libteamdctl.so.0.1.5[0m
+May 28 21:24:15 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rwxr-xr-x   1 root     root        24072 Sep  8  2020 usr/lib64/libteamdctl.so.0.1.5[0m
+May 28 21:24:15 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mlrwxrwxrwx   1 root     root           15 Feb 22 10:57 usr/lib64/libtinfo.so.6 -> libtinfo.so.6.1[0m
+May 28 21:24:15 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rwxr-xr-x   1 root     root       187200 May 10  2019 usr/lib64/libtinfo.so.6.1[0m
+May 28 21:24:15 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mlrwxrwxrwx   1 root     root           17 Feb 22 10:57 usr/lib64/libudev.so.1 -> libudev.so.1.6.11[0m
+May 28 21:24:15 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rwxr-xr-x   1 root     root       628360 Feb 22 10:57 usr/lib64/libudev.so.1.6.11[0m
+May 28 21:24:15 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mlrwxrwxrwx   1 root     root           21 Feb 22 10:57 usr/lib64/libunistring.so.2 -> libunistring.so.2.1.0[0m
+May 28 21:24:15 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rwxr-xr-x   1 root     root      1580256 May 10  2019 usr/lib64/libunistring.so.2.1.0[0m
+May 28 21:24:15 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mlrwxrwxrwx   1 root     root           16 Feb 22 10:57 usr/lib64/libuuid.so.1 -> libuuid.so.1.3.0[0m
+May 28 21:24:15 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rwxr-xr-x   1 root     root        32800 Jul 21  2020 usr/lib64/libuuid.so.1.3.0[0m
+May 28 21:24:15 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mlrwxrwxrwx   1 root     root           16 Feb 22 10:57 usr/lib64/libxml2.so.2 -> libxml2.so.2.9.7[0m
+May 28 21:24:15 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rwxr-xr-x   1 root     root      1502960 May 18  2020 usr/lib64/libxml2.so.2.9.7[0m
+May 28 21:24:15 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mlrwxrwxrwx   1 root     root           14 Feb 22 10:57 usr/lib64/libz.so.1 -> libz.so.1.2.11[0m
+May 28 21:24:15 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rwxr-xr-x   1 root     root        94992 Feb 22 10:57 usr/lib64/libz.so.1.2.11[0m
+May 28 21:24:15 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mdrwxr-xr-x   2 root     root            0 Feb 22 10:57 usr/lib64/plymouth[0m
+May 28 21:24:15 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rwxr-xr-x   1 root     root        16208 Oct  6  2020 usr/lib64/plymouth/details.so[0m
+May 28 21:24:15 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rwxr-xr-x   1 root     root        20384 Oct  6  2020 usr/lib64/plymouth/text.so[0m
+May 28 21:24:15 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mdrwxr-xr-x   2 root     root            0 Feb 22 10:57 usr/libexec[0m
+May 28 21:24:15 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rwxr-xr-x   1 root     root        16528 Jan  5 10:45 usr/libexec/nm-dhcp-helper[0m
+May 28 21:24:15 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rwxr-xr-x   1 root     root       726272 Jan  5 10:45 usr/libexec/nm-initrd-generator[0m
+May 28 21:24:15 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mdrwxr-xr-x   2 root     root            0 Feb 22 10:57 usr/sbin[0m
+May 28 21:24:15 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rwxr-xr-x   1 root     root      3430384 Jan  5 10:45 usr/sbin/NetworkManager[0m
+May 28 21:24:15 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rwxr-xr-x   1 root     root        42192 May 11  2019 usr/sbin/biosdevname[0m
+May 28 21:24:15 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rwxr-xr-x   1 root     root        96544 Jul 21  2020 usr/sbin/blkid[0m
+May 28 21:24:15 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rwxr-xr-x   1 root     root        42136 Apr 26  2020 usr/sbin/chroot[0m
+May 28 21:24:15 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mlrwxrwxrwx   1 root     root           11 Feb 22 10:57 usr/sbin/depmod -> ../bin/kmod[0m
+May 28 21:24:15 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rwxr-xr-x   1 root     root       464272 Jun  2  2020 usr/sbin/dhclient[0m
+May 28 21:24:15 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-r-xr-xr-x   1 root     root        45952 Aug 17  2020 usr/sbin/dmeventd[0m
+May 28 21:24:15 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-r-xr-xr-x   1 root     root       162536 Aug 17  2020 usr/sbin/dmsetup[0m
+May 28 21:24:15 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rwxr-xr-x   1 root     root        54408 Jul 21  2020 usr/sbin/fsck[0m
+May 28 21:24:15 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rwxr-xr-x   1 root     root         1968 Jun 16  2020 usr/sbin/fsck.xfs[0m
+May 28 21:24:15 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mlrwxrwxrwx   1 root     root           16 Feb 22 10:57 usr/sbin/halt -> ../bin/systemctl[0m
+May 28 21:24:15 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mlrwxrwxrwx   1 root     root           22 Feb 22 10:57 usr/sbin/init -> ../lib/systemd/systemd[0m
+May 28 21:24:16 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rwxr-xr-x   1 root     root         1163 Oct  8  2018 usr/sbin/initqueue[0m
+May 28 21:24:16 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mlrwxrwxrwx   1 root     root           11 Feb 22 10:57 usr/sbin/insmod -> ../bin/kmod[0m
+May 28 21:24:16 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rwxr-xr-x   1 root     root          193 Oct  8  2018 usr/sbin/insmodpost.sh[0m
+May 28 21:24:16 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rwxr-xr-x   1 root     root       617136 Jul 21  2020 usr/sbin/ip[0m
+May 28 21:24:16 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rwxr-xr-x   1 root     root       195576 Jan  4 11:25 usr/sbin/kexec[0m
+May 28 21:24:16 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rwxr-xr-x   1 root     root          492 Oct  8  2018 usr/sbin/loginit[0m
+May 28 21:24:16 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rwxr-xr-x   1 root     root        92408 Jul 21  2020 usr/sbin/losetup[0m
+May 28 21:24:16 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mlrwxrwxrwx   1 root     root           11 Feb 22 10:57 usr/sbin/lsmod -> ../bin/kmod[0m
+May 28 21:24:16 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-r-xr-xr-x   1 root     root      2585272 Aug 17  2020 usr/sbin/lvm[0m
+May 28 21:24:16 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rwxr-xr-x   1 root     root         3527 Oct  8  2018 usr/sbin/lvm_scan[0m
+May 28 21:24:16 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mlrwxrwxrwx   1 root     root           11 Feb 22 10:57 usr/sbin/modinfo -> ../bin/kmod[0m
+May 28 21:24:16 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mlrwxrwxrwx   1 root     root           11 Feb 22 10:57 usr/sbin/modprobe -> ../bin/kmod[0m
+May 28 21:24:16 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rwxr-xr-x   1 root     root         2677 Feb 22 10:57 usr/sbin/netroot[0m
+May 28 21:24:16 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rwxr-xr-x   1 root     root        12320 Jul 21  2020 usr/sbin/nologin[0m
+May 28 21:24:16 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rwxr-xr-x   1 root     root       145048 Oct  6  2020 usr/sbin/plymouthd[0m
+May 28 21:24:16 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mlrwxrwxrwx   1 root     root           16 Feb 22 10:57 usr/sbin/poweroff -> ../bin/systemctl[0m
+May 28 21:24:16 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rwxr-xr-x   1 root     root         1346 Oct  8  2018 usr/sbin/rdsosreport[0m
+May 28 21:24:16 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mlrwxrwxrwx   1 root     root           16 Feb 22 10:57 usr/sbin/reboot -> ../bin/systemctl[0m
+May 28 21:24:16 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mlrwxrwxrwx   1 root     root           11 Feb 22 10:57 usr/sbin/rmmod -> ../bin/kmod[0m
+May 28 21:24:16 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rwxr-xr-x   1 root     root        65120 Apr 23  2020 usr/sbin/rngd[0m
+May 28 21:24:16 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rwxr-xr-x   1 root     root        20912 Jul 21  2020 usr/sbin/swapoff[0m
+May 28 21:24:16 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mlrwxrwxrwx   1 root     root           14 Feb 22 10:57 usr/sbin/udevadm -> ../bin/udevadm[0m
+May 28 21:24:16 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rwxr-xr-x   1 root     root       774200 Jun 16  2020 usr/sbin/xfs_db[0m
+May 28 21:24:16 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rwxr-xr-x   1 root     root          782 Jun 16  2020 usr/sbin/xfs_metadump[0m
+May 28 21:24:16 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rwxr-xr-x   1 root     root       727904 Jun 16  2020 usr/sbin/xfs_repair[0m
+May 28 21:24:16 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mdrwxr-xr-x   5 root     root            0 Feb 22 10:57 usr/share[0m
+May 28 21:24:16 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mlrwxrwxrwx   1 root     root           25 Feb 22 10:57 usr/share/consolefonts -> /usr/lib/kbd/consolefonts[0m
+May 28 21:24:16 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mlrwxrwxrwx   1 root     root           25 Feb 22 10:57 usr/share/consoletrans -> /usr/lib/kbd/consoletrans[0m
+May 28 21:24:16 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mlrwxrwxrwx   1 root     root           20 Feb 22 10:57 usr/share/keymaps -> /usr/lib/kbd/keymaps[0m
+May 28 21:24:16 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mdrwxr-xr-x   2 root     root            0 Feb 22 10:57 usr/share/pixmaps[0m
+May 28 21:24:16 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         5610 Jul 21  2019 usr/share/pixmaps/system-logo-white.png[0m
+May 28 21:24:16 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mdrwxr-xr-x   3 root     root            0 Feb 22 10:57 usr/share/plymouth[0m
+May 28 21:24:16 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root          134 Oct  6  2020 usr/share/plymouth/plymouthd.defaults[0m
+May 28 21:24:16 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mdrwxr-xr-x   4 root     root            0 Feb 22 10:57 usr/share/plymouth/themes[0m
+May 28 21:24:16 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mdrwxr-xr-x   2 root     root            0 Feb 22 10:57 usr/share/plymouth/themes/details[0m
+May 28 21:24:16 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root           84 May 30  2020 usr/share/plymouth/themes/details/details.plymouth[0m
+May 28 21:24:16 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mdrwxr-xr-x   2 root     root            0 Feb 22 10:57 usr/share/plymouth/themes/text[0m
+May 28 21:24:16 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root           94 May 30  2020 usr/share/plymouth/themes/text/text.plymouth[0m
+May 28 21:24:16 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mdrwxr-xr-x   4 root     root            0 Feb 22 10:57 usr/share/terminfo[0m
+May 28 21:24:16 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mdrwxr-xr-x   2 root     root            0 Feb 22 10:57 usr/share/terminfo/l[0m
+May 28 21:24:16 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         1822 May 10  2019 usr/share/terminfo/l/linux[0m
+May 28 21:24:16 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mdrwxr-xr-x   2 root     root            0 Feb 22 10:57 usr/share/terminfo/v[0m
+May 28 21:24:16 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         1190 May 10  2019 usr/share/terminfo/v/vt100[0m
+May 28 21:24:16 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         1184 May 10  2019 usr/share/terminfo/v/vt102[0m
+May 28 21:24:16 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m-rw-r--r--   1 root     root         1377 May 10  2019 usr/share/terminfo/v/vt220[0m
+May 28 21:24:16 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mlrwxrwxrwx   1 root     root           20 Feb 22 10:57 usr/share/unimaps -> /usr/lib/kbd/unimaps[0m
+May 28 21:24:16 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mdrwxr-xr-x   3 root     root            0 Feb 22 10:57 var[0m
+May 28 21:24:16 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mlrwxrwxrwx   1 root     root           11 Feb 22 10:57 var/lock -> ../run/lock[0m
+May 28 21:24:16 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mlrwxrwxrwx   1 root     root            6 Feb 22 10:57 var/run -> ../run[0m
+May 28 21:24:16 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37mdrwxr-xr-x   2 root     root            0 Feb 22 10:57 var/tmp[0m
+May 28 21:24:16 ocp-svc dracut[56758]: [0;2;37m[0;1;31m[0;2;37m========================================================================[0m
+May 28 21:24:16 ocp-svc dracut[56758]: *** Creating initramfs image file '/boot/initramfs-4.18.0-240.el8.x86_64.img' done ***
+May 28 21:24:16 ocp-svc systemd[1]: Started /usr/bin/systemctl start man-db-cache-update.
+-- Subject: Unit run-r68b026cc1016457b9d0f96ebed516e86.service has finished start-up
+-- Defined-By: systemd
+-- Support: https://access.redhat.com/support
+-- 
+-- Unit run-r68b026cc1016457b9d0f96ebed516e86.service has finished starting up.
+-- 
+-- The start-up result is done.
+May 28 21:24:16 ocp-svc systemd[1]: [0;1;39m[0;1;31m[0;1;39mcgroup compatibility translation between legacy and unified hierarchy settings activated. See cgroup-compat debug messages for details.[0m
+May 28 21:24:16 ocp-svc systemd[1]: Starting man-db-cache-update.service...
+-- Subject: Unit man-db-cache-update.service has begun start-up
+-- Defined-By: systemd
+-- Support: https://access.redhat.com/support
+-- 
+-- Unit man-db-cache-update.service has begun starting up.
+May 28 21:24:16 ocp-svc systemd[1]: Started /usr/bin/systemctl start man-db-cache-update.
+-- Subject: Unit run-rf696a1331f074e5b9de86ed986266014.service has finished start-up
+-- Defined-By: systemd
+-- Support: https://access.redhat.com/support
+-- 
+-- Unit run-rf696a1331f074e5b9de86ed986266014.service has finished starting up.
+-- 
+-- The start-up result is done.
+May 28 21:24:17 ocp-svc systemd[1]: Reloading.
+May 28 21:24:41 ocp-svc systemd[1]: man-db-cache-update.service: Succeeded.
+-- Subject: Unit succeeded
+-- Defined-By: systemd
+-- Support: https://access.redhat.com/support
+-- 
+-- The unit man-db-cache-update.service has successfully entered the 'dead' state.
+May 28 21:24:41 ocp-svc systemd[1]: Started man-db-cache-update.service.
+-- Subject: Unit man-db-cache-update.service has finished start-up
+-- Defined-By: systemd
+-- Support: https://access.redhat.com/support
+-- 
+-- Unit man-db-cache-update.service has finished starting up.
+-- 
+-- The start-up result is done.
+May 28 21:24:41 ocp-svc systemd[1]: run-r68b026cc1016457b9d0f96ebed516e86.service: Succeeded.
+-- Subject: Unit succeeded
+-- Defined-By: systemd
+-- Support: https://access.redhat.com/support
+-- 
+-- The unit run-r68b026cc1016457b9d0f96ebed516e86.service has successfully entered the 'dead' state.
+May 28 21:24:41 ocp-svc systemd[1]: run-rf696a1331f074e5b9de86ed986266014.service: Succeeded.
+-- Subject: Unit succeeded
+-- Defined-By: systemd
+-- Support: https://access.redhat.com/support
+-- 
+-- The unit run-rf696a1331f074e5b9de86ed986266014.service has successfully entered the 'dead' state.
+May 28 21:25:23 ocp-svc systemd[1]: Started /usr/bin/systemctl start man-db-cache-update.
+-- Subject: Unit run-r2120e9c3a56f4be6b176cccc21d2aae2.service has finished start-up
+-- Defined-By: systemd
+-- Support: https://access.redhat.com/support
+-- 
+-- Unit run-r2120e9c3a56f4be6b176cccc21d2aae2.service has finished starting up.
+-- 
+-- The start-up result is done.
+May 28 21:25:23 ocp-svc systemd[1]: Starting man-db-cache-update.service...
+-- Subject: Unit man-db-cache-update.service has begun start-up
+-- Defined-By: systemd
+-- Support: https://access.redhat.com/support
+-- 
+-- Unit man-db-cache-update.service has begun starting up.
+May 28 21:25:26 ocp-svc systemd[1]: man-db-cache-update.service: Succeeded.
+-- Subject: Unit succeeded
+-- Defined-By: systemd
+-- Support: https://access.redhat.com/support
+-- 
+-- The unit man-db-cache-update.service has successfully entered the 'dead' state.
+May 28 21:25:26 ocp-svc systemd[1]: Started man-db-cache-update.service.
+-- Subject: Unit man-db-cache-update.service has finished start-up
+-- Defined-By: systemd
+-- Support: https://access.redhat.com/support
+-- 
+-- Unit man-db-cache-update.service has finished starting up.
+-- 
+-- The start-up result is done.
+May 28 21:25:26 ocp-svc systemd[1]: run-r2120e9c3a56f4be6b176cccc21d2aae2.service: Succeeded.
+-- Subject: Unit succeeded
+-- Defined-By: systemd
+-- Support: https://access.redhat.com/support
+-- 
+-- The unit run-r2120e9c3a56f4be6b176cccc21d2aae2.service has successfully entered the 'dead' state.
+May 28 21:25:58 ocp-svc chronyd[1445]: Source 200.25.3.17 replaced with 2a01:4f9:c010:1eba::1
+May 28 21:31:46 ocp-svc NetworkManager[1514]: <info>  [1622251906.0591] audit: op="connection-update" uuid="00a0cf9b-d968-4029-9e37-e5a0e3cccfed" name="vlan100" args="connection.timestamp,connection.zone" pid=92647 uid=0 result="success"
+May 28 21:31:47 ocp-svc kernel: bnx2x 0000:04:00.1 eno2: using MSI-X  IRQs: sp 164  fp[0] 166 ... fp[7] 173
+May 28 21:31:47 ocp-svc NetworkManager[1514]: <info>  [1622251907.4290] device (eno2): carrier: link connected
+May 28 21:31:47 ocp-svc kernel: bnx2x 0000:04:00.1 eno2: NIC Link is Up, 10000 Mbps full duplex, Flow control: none
+May 28 21:31:53 ocp-svc NetworkManager[1514]: <info>  [1622251913.8781] audit: op="connection-update" uuid="16e9b1a1-cb71-42aa-9584-0645a98c2a7e" name="eno2" args="connection.zone" pid=92660 uid=0 result="success"
+May 28 21:32:10 ocp-svc firewalld[1498]: [0;1;39m[0;1;31m[0;1;39mWARNING: ALREADY_ENABLED: masquerade[0m
+May 28 21:32:53 ocp-svc groupadd[92673]: group added to /etc/group: name=named, GID=25
+May 28 21:32:53 ocp-svc groupadd[92673]: group added to /etc/gshadow: name=named
+May 28 21:32:53 ocp-svc groupadd[92673]: new group: name=named, GID=25
+May 28 21:32:53 ocp-svc useradd[92679]: new user: name=named, UID=25, GID=25, home=/var/named, shell=/bin/false
+May 28 21:32:54 ocp-svc systemd[1]: Started /usr/bin/systemctl start man-db-cache-update.
+-- Subject: Unit run-rf6fcbe9f30294771a4e08d4535ce4798.service has finished start-up
+-- Defined-By: systemd
+-- Support: https://access.redhat.com/support
+-- 
+-- Unit run-rf6fcbe9f30294771a4e08d4535ce4798.service has finished starting up.
+-- 
+-- The start-up result is done.
+May 28 21:32:54 ocp-svc systemd[1]: Reloading.
+May 28 21:32:55 ocp-svc systemd[1]: Starting man-db-cache-update.service...
+-- Subject: Unit man-db-cache-update.service has begun start-up
+-- Defined-By: systemd
+-- Support: https://access.redhat.com/support
+-- 
+-- Unit man-db-cache-update.service has begun starting up.
+May 28 21:32:55 ocp-svc systemd[1]: man-db-cache-update.service: Succeeded.
+-- Subject: Unit succeeded
+-- Defined-By: systemd
+-- Support: https://access.redhat.com/support
+-- 
+-- The unit man-db-cache-update.service has successfully entered the 'dead' state.
+May 28 21:32:55 ocp-svc systemd[1]: Started man-db-cache-update.service.
+-- Subject: Unit man-db-cache-update.service has finished start-up
+-- Defined-By: systemd
+-- Support: https://access.redhat.com/support
+-- 
+-- Unit man-db-cache-update.service has finished starting up.
+-- 
+-- The start-up result is done.
+May 28 21:32:55 ocp-svc systemd[1]: run-rf6fcbe9f30294771a4e08d4535ce4798.service: Succeeded.
+-- Subject: Unit succeeded
+-- Defined-By: systemd
+-- Support: https://access.redhat.com/support
+-- 
+-- The unit run-rf6fcbe9f30294771a4e08d4535ce4798.service has successfully entered the 'dead' state.
+May 28 21:42:11 ocp-svc firewalld[1498]: [0;1;39m[0;1;31m[0;1;39mWARNING: AllowZoneDrifting is enabled. This is considered an insecure configuration option. It will be removed in a future release. Please consider disabling it now.[0m
+May 28 21:42:16 ocp-svc systemd[1]: Reloading.
+May 28 21:42:17 ocp-svc systemd[1]: Starting Generate rndc key for BIND (DNS)...
+-- Subject: Unit named-setup-rndc.service has begun start-up
+-- Defined-By: systemd
+-- Support: https://access.redhat.com/support
+-- 
+-- Unit named-setup-rndc.service has begun starting up.
+May 28 21:42:17 ocp-svc generate-rndc-key.sh[93312]: Generating /etc/rndc.key:[  OK  ]
+May 28 21:42:17 ocp-svc systemd[1]: named-setup-rndc.service: Succeeded.
+-- Subject: Unit succeeded
+-- Defined-By: systemd
+-- Support: https://access.redhat.com/support
+-- 
+-- The unit named-setup-rndc.service has successfully entered the 'dead' state.
+May 28 21:42:17 ocp-svc systemd[1]: Started Generate rndc key for BIND (DNS).
+-- Subject: Unit named-setup-rndc.service has finished start-up
+-- Defined-By: systemd
+-- Support: https://access.redhat.com/support
+-- 
+-- Unit named-setup-rndc.service has finished starting up.
+-- 
+-- The start-up result is done.
+May 28 21:42:17 ocp-svc systemd[1]: Starting Berkeley Internet Name Domain (DNS)...
+-- Subject: Unit named.service has begun start-up
+-- Defined-By: systemd
+-- Support: https://access.redhat.com/support
+-- 
+-- Unit named.service has begun starting up.
+May 28 21:42:17 ocp-svc bash[93322]: dns_rdata_fromtext: /etc/named/zones/db.ocp.lan:11: near '172.31.7.0.1': bad dotted quad
+May 28 21:42:17 ocp-svc bash[93322]: dns_rdata_fromtext: /etc/named/zones/db.ocp.lan:14: near '172.31.7.0.200': bad dotted quad
+May 28 21:42:17 ocp-svc bash[93322]: dns_rdata_fromtext: /etc/named/zones/db.ocp.lan:17: near '172.31.7.0.201': bad dotted quad
+May 28 21:42:17 ocp-svc bash[93322]: dns_rdata_fromtext: /etc/named/zones/db.ocp.lan:18: near '172.31.7.0.202': bad dotted quad
+May 28 21:42:17 ocp-svc bash[93322]: dns_rdata_fromtext: /etc/named/zones/db.ocp.lan:19: near '172.31.7.0.203': bad dotted quad
+May 28 21:42:17 ocp-svc bash[93322]: dns_rdata_fromtext: /etc/named/zones/db.ocp.lan:22: near '172.31.7.0.211': bad dotted quad
+May 28 21:42:17 ocp-svc bash[93322]: dns_rdata_fromtext: /etc/named/zones/db.ocp.lan:23: near '172.31.7.0.212': bad dotted quad
+May 28 21:42:17 ocp-svc bash[93322]: dns_rdata_fromtext: /etc/named/zones/db.ocp.lan:26: near '172.31.7.0.1': bad dotted quad
+May 28 21:42:17 ocp-svc bash[93322]: dns_rdata_fromtext: /etc/named/zones/db.ocp.lan:27: near '172.31.7.0.1': bad dotted quad
+May 28 21:42:17 ocp-svc bash[93322]: dns_rdata_fromtext: /etc/named/zones/db.ocp.lan:28: near '172.31.7.0.1': bad dotted quad
+May 28 21:42:17 ocp-svc bash[93322]: dns_rdata_fromtext: /etc/named/zones/db.ocp.lan:31: near '172.31.7.0.201': bad dotted quad
+May 28 21:42:17 ocp-svc bash[93322]: dns_rdata_fromtext: /etc/named/zones/db.ocp.lan:32: near '172.31.7.0.202': bad dotted quad
+May 28 21:42:17 ocp-svc bash[93322]: dns_rdata_fromtext: /etc/named/zones/db.ocp.lan:33: near '172.31.7.0.203': bad dotted quad
+May 28 21:42:17 ocp-svc bash[93322]: dns_rdata_fromtext: /etc/named/zones/db.ocp.lan:40: near '172.31.7.0.1': bad dotted quad
+May 28 21:42:17 ocp-svc bash[93322]: dns_rdata_fromtext: /etc/named/zones/db.ocp.lan:41: near '172.31.7.0.1': bad dotted quad
+May 28 21:42:17 ocp-svc bash[93322]: zone ocp.lan/IN: loading from master file /etc/named/zones/db.ocp.lan failed: bad dotted quad
+May 28 21:42:17 ocp-svc bash[93322]: zone ocp.lan/IN: not loaded due to errors.
+May 28 21:42:17 ocp-svc bash[93322]: _default/ocp.lan/IN: bad dotted quad
+May 28 21:42:17 ocp-svc bash[93322]: zone 7.31.172.in-addr.arpa/IN: loaded serial 1
+May 28 21:42:17 ocp-svc bash[93322]: zone 0.66.100.in-addr.arpa/IN: loaded serial 1
+May 28 21:42:17 ocp-svc bash[93322]: zone localhost.localdomain/IN: loaded serial 0
+May 28 21:42:17 ocp-svc bash[93322]: zone localhost/IN: loaded serial 0
+May 28 21:42:17 ocp-svc bash[93322]: zone 1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa/IN: loaded serial 0
+May 28 21:42:17 ocp-svc bash[93322]: zone 1.0.0.127.in-addr.arpa/IN: loaded serial 0
+May 28 21:42:17 ocp-svc bash[93322]: zone 0.in-addr.arpa/IN: loaded serial 0
+May 28 21:42:17 ocp-svc systemd[1]: [0;1;39m[0;1;31m[0;1;39mnamed.service: Control process exited, code=exited status=1[0m
+May 28 21:42:17 ocp-svc systemd[1]: [0;1;39m[0;1;31m[0;1;39mnamed.service: Failed with result 'exit-code'.[0m
+-- Subject: Unit failed
+-- Defined-By: systemd
+-- Support: https://access.redhat.com/support
+-- 
+-- The unit named.service has entered the 'failed' state with result 'exit-code'.
+May 28 21:42:17 ocp-svc systemd[1]: [0;1;31m[0;1;39m[0;1;31mFailed to start Berkeley Internet Name Domain (DNS).[0m
+-- Subject: Unit named.service has failed
+-- Defined-By: systemd
+-- Support: https://access.redhat.com/support
+-- 
+-- Unit named.service has failed.
+-- 
+-- The result is failed.
+May 28 21:42:17 ocp-svc systemd[1]: Reached target Host and Network Name Lookups.
+-- Subject: Unit nss-lookup.target has finished start-up
+-- Defined-By: systemd
+-- Support: https://access.redhat.com/support
+-- 
+-- Unit nss-lookup.target has finished starting up.
+-- 
+-- The start-up result is done.
+May 28 21:43:54 ocp-svc systemd[1]: Starting Generate rndc key for BIND (DNS)...
+-- Subject: Unit named-setup-rndc.service has begun start-up
+-- Defined-By: systemd
+-- Support: https://access.redhat.com/support
+-- 
+-- Unit named-setup-rndc.service has begun starting up.
+May 28 21:43:54 ocp-svc systemd[1]: named-setup-rndc.service: Succeeded.
+-- Subject: Unit succeeded
+-- Defined-By: systemd
+-- Support: https://access.redhat.com/support
+-- 
+-- The unit named-setup-rndc.service has successfully entered the 'dead' state.
+May 28 21:43:54 ocp-svc systemd[1]: Started Generate rndc key for BIND (DNS).
+-- Subject: Unit named-setup-rndc.service has finished start-up
+-- Defined-By: systemd
+-- Support: https://access.redhat.com/support
+-- 
+-- Unit named-setup-rndc.service has finished starting up.
+-- 
+-- The start-up result is done.
+May 28 21:43:54 ocp-svc systemd[1]: Starting Berkeley Internet Name Domain (DNS)...
+-- Subject: Unit named.service has begun start-up
+-- Defined-By: systemd
+-- Support: https://access.redhat.com/support
+-- 
+-- Unit named.service has begun starting up.
+May 28 21:43:54 ocp-svc bash[93350]: dns_rdata_fromtext: /etc/named/zones/db.ocp.lan:11: near '172.31.7.0.1': bad dotted quad
+May 28 21:43:54 ocp-svc bash[93350]: dns_rdata_fromtext: /etc/named/zones/db.ocp.lan:14: near '172.31.7.0.200': bad dotted quad
+May 28 21:43:54 ocp-svc bash[93350]: dns_rdata_fromtext: /etc/named/zones/db.ocp.lan:17: near '172.31.7.0.201': bad dotted quad
+May 28 21:43:54 ocp-svc bash[93350]: dns_rdata_fromtext: /etc/named/zones/db.ocp.lan:18: near '172.31.7.0.202': bad dotted quad
+May 28 21:43:54 ocp-svc bash[93350]: dns_rdata_fromtext: /etc/named/zones/db.ocp.lan:19: near '172.31.7.0.203': bad dotted quad
+May 28 21:43:54 ocp-svc bash[93350]: dns_rdata_fromtext: /etc/named/zones/db.ocp.lan:22: near '172.31.7.0.211': bad dotted quad
+May 28 21:43:54 ocp-svc bash[93350]: dns_rdata_fromtext: /etc/named/zones/db.ocp.lan:23: near '172.31.7.0.212': bad dotted quad
+May 28 21:43:54 ocp-svc bash[93350]: dns_rdata_fromtext: /etc/named/zones/db.ocp.lan:26: near '172.31.7.0.1': bad dotted quad
+May 28 21:43:54 ocp-svc bash[93350]: dns_rdata_fromtext: /etc/named/zones/db.ocp.lan:27: near '172.31.7.0.1': bad dotted quad
+May 28 21:43:54 ocp-svc bash[93350]: dns_rdata_fromtext: /etc/named/zones/db.ocp.lan:28: near '172.31.7.0.1': bad dotted quad
+May 28 21:43:54 ocp-svc bash[93350]: dns_rdata_fromtext: /etc/named/zones/db.ocp.lan:31: near '172.31.7.0.201': bad dotted quad
+May 28 21:43:54 ocp-svc bash[93350]: dns_rdata_fromtext: /etc/named/zones/db.ocp.lan:32: near '172.31.7.0.202': bad dotted quad
+May 28 21:43:54 ocp-svc bash[93350]: dns_rdata_fromtext: /etc/named/zones/db.ocp.lan:33: near '172.31.7.0.203': bad dotted quad
+May 28 21:43:54 ocp-svc bash[93350]: dns_rdata_fromtext: /etc/named/zones/db.ocp.lan:40: near '172.31.7.0.1': bad dotted quad
+May 28 21:43:54 ocp-svc bash[93350]: dns_rdata_fromtext: /etc/named/zones/db.ocp.lan:41: near '172.31.7.0.1': bad dotted quad
+May 28 21:43:54 ocp-svc bash[93350]: zone ocp.lan/IN: loading from master file /etc/named/zones/db.ocp.lan failed: bad dotted quad
+May 28 21:43:54 ocp-svc bash[93350]: zone ocp.lan/IN: not loaded due to errors.
+May 28 21:43:54 ocp-svc bash[93350]: _default/ocp.lan/IN: bad dotted quad
+May 28 21:43:54 ocp-svc bash[93350]: zone 7.31.172.in-addr.arpa/IN: loaded serial 1
+May 28 21:43:54 ocp-svc bash[93350]: zone 0.66.100.in-addr.arpa/IN: loaded serial 1
+May 28 21:43:54 ocp-svc bash[93350]: zone localhost.localdomain/IN: loaded serial 0
+May 28 21:43:54 ocp-svc bash[93350]: zone localhost/IN: loaded serial 0
+May 28 21:43:54 ocp-svc bash[93350]: zone 1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa/IN: loaded serial 0
+May 28 21:43:54 ocp-svc bash[93350]: zone 1.0.0.127.in-addr.arpa/IN: loaded serial 0
+May 28 21:43:54 ocp-svc bash[93350]: zone 0.in-addr.arpa/IN: loaded serial 0
+May 28 21:43:54 ocp-svc systemd[1]: [0;1;39m[0;1;31m[0;1;39mnamed.service: Control process exited, code=exited status=1[0m
+May 28 21:43:54 ocp-svc systemd[1]: [0;1;39m[0;1;31m[0;1;39mnamed.service: Failed with result 'exit-code'.[0m
+-- Subject: Unit failed
+-- Defined-By: systemd
+-- Support: https://access.redhat.com/support
+-- 
+-- The unit named.service has entered the 'failed' state with result 'exit-code'.
+May 28 21:43:54 ocp-svc systemd[1]: [0;1;31m[0;1;39m[0;1;31mFailed to start Berkeley Internet Name Domain (DNS).[0m
+-- Subject: Unit named.service has failed
+-- Defined-By: systemd
+-- Support: https://access.redhat.com/support
+-- 
+-- Unit named.service has failed.
+-- 
+-- The result is failed.
