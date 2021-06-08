@@ -24,4 +24,48 @@ networking:
 platform:
   none: {}
 fips: false
-pullSecret: ''
+pullSecret: '{"auths":{"ocp-srv.ocp.lan:5000":{"auth":"ZHVtbXk6ZHVtbXk=","email":"noemail@localhost"}}}'
+sshKey: "ssh-ed25519 AAAA..."
+imageContentSources:
+- mirrors:
+  - ocp-srv.ocp.lan:5000/ocp4/openshift4
+  source: quay.io/openshift-release-dev/ocp-release
+- mirrors:
+  - ocp-srv.ocp.lan:5000/ocp4/openshift4
+  source: quay.io/openshift-release-dev/ocp-v4.0-art-dev
+additionalTrustBundle: |
+  -----BEGIN CERTIFICATE-----
+  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
+  R7PI2b4=
+  -----END CERTIFICATE-----

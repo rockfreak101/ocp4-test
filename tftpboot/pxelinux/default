@@ -7,10 +7,10 @@ PROMPT 0
 MENU TITLE OPENSHIFT 4.x INSTALL BARE METAL PXE MENU
 LABEL INSTALL BOOTSTRAP
 	KERNEL tftp/ocp4/rhcos-live-kernel-x86_64
-	APPEND initrd=tftp/ocp4/rhcos-live-initramfs.x86_64.img coreos.live.rootfs_url=http://172.31.7.1:8080/ocp4/rhcos-live-rootfs.x86_64.img coreos.inst.install_dev=/dev/sda coreos.inst.ignition_url=http://172.31.7.1:8080/ocp4/bootstrap.ign 
+	APPEND initrd=tftp/ocp4/rhcos-live-initramfs.x86_64.img coreos.live.rootfs_url=http://172.31.7.1:8080/ocp4/rhcos-live-rootfs.x86_64.img coreos.inst.install_dev=/dev/sda coreos.inst.ignition_url=http://172.31.7.1:8080/ocp4/bootstrap.ign ip=eno1:dhcp
 LABEL INSTALL MASTER
 	KERNEL tftp/ocp4/rhcos-live-kernel-x86_64
-	APPEND initrd=tftp/ocp4/rhcos-live-initramfs.x86_64.img coreos.live.rootfs_url=http://172.31.7.1:8080/ocp4/rhcos-live-rootfs.x86_64.img coreos.inst.install_dev=/dev/sda coreos.inst.ignition_url=http://172.31.7.1:8080/ocp4/master.ign
+	APPEND initrd=tftp/ocp4/rhcos-live-initramfs.x86_64.img coreos.live.rootfs_url=http://172.31.7.1:8080/ocp4/rhcos-live-rootfs.x86_64.img coreos.inst.install_dev=/dev/sda coreos.inst.ignition_url=http://172.31.7.1:8080/ocp4/master.ign ip=eno1:dhcp
 LABEL INSTALL WORKER
 	KERNEL tftp/ocp4/rhcos-live-kernel-x86_64
-	APPEND initrd=tftp/ocp4/rhcos-live-initramfs.x86_64.img coreos.live.rootfs_url=http://172.31.7.1:8080/ocp4/rhcos-live-rootfs.x86_64.img coreos.inst.install_dev=/dev/sda coreos.inst.ignition_url=http://172.31.7.1:8080/ocp4/worker.ign
+	APPEND initrd=tftp/ocp4/rhcos-live-initramfs.x86_64.img coreos.live.rootfs_url=http://172.31.7.1:8080/ocp4/rhcos-live-rootfs.x86_64.img coreos.inst.install_dev=/dev/sda coreos.inst.ignition_url=http://172.31.7.1:8080/ocp4/worker.ign ip=eno1:dhcp
