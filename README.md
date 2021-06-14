@@ -76,7 +76,31 @@ spec:
     - ocp-srv.ocp.lan:5000/ocp4/openshift4
     source: quay.io/openshift-release-dev/ocp-v4.0-art-dev
 
+[root@ocp-svc ocp4-test]# eval "$(ssh-agent -s)"
+Agent pid 41885
+[root@ocp-svc ocp4-test]# ssh-add ~/.ssh/ocp-test
+Identity added: /root/.ssh/ocp-test (root@ocp-svc.ocp.lan)
+[root@ocp-svc ocp4-test]#
 
 TODO
 1. configure chrony local ntp
 	https://docs.openshift.com/container-platform/4.7/installing/install_config/installing-customizing.html#installation-special-config-chrony_installing-customizing
+
+dnf -y install chrony
+systemctl enable chronyd
+vim /etc/chrony.conf
+Server 192.168.1.150
+# replace the ntp.ort entry with 10.171.8.4
+systemctl restart chronyd
+chronyc sources
+chronyc clients
+
+  cat << EOF | base64
+  pool 192.168.22.1 iburst 
+  driftfile /var/lib/chrony/drift
+  makestep 1.0 3
+  rtcsync
+  logdir /var/log/chrony
+EOF
+
+cp ocp4-test/99-masters-chrony-configuration.yaml ~/ocp-install/
